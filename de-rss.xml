@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felix Krusch - Webdesign &amp; Entwicklung Blog</title>
+    <description>Einblicke in Webdesign, Entwicklung, SEO und digitale Strategie von Felix Krusch, freiberuflichem Webdesigner und Entwickler aus Montreal.</description>
+    <link>https://felixkrusch.com/de/blog</link>
+    <atom:link href="https://felixkrusch.com/de-rss.xml" rel="self" type="application/rss+xml"/>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 16 Feb 2026 14:13:22 GMT</lastBuildDate>
+    <generator>Next.js</generator>
+    
+    <item>
+      <title><![CDATA[Test Blog Beitrag 2]]></title>
+      <description><![CDATA[Dies ist ein zweiter Test-Blogbeitrag zur Demonstration des MDX-Blogsystems.]]></description>
+      <link>https://felixkrusch.com/de/blog/test-blog-post-2</link>
+      <guid>https://felixkrusch.com/de/blog/test-blog-post-2</guid>
+      <pubDate>Mon, 16 Feb 2026 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Hallo Welt!]]></title>
+      <description><![CDATA[Willkommen in meinem neuen MDX-betriebenen Blog. Dies ist der erste Beitrag auf meiner Reise, Einblicke in Webentwicklung, Design und digitale Strategie zu teilen.]]></description>
+      <link>https://felixkrusch.com/de/blog/hallo-welt</link>
+      <guid>https://felixkrusch.com/de/blog/hallo-welt</guid>
+      <pubDate>Sat, 14 Feb 2026 14:16:35 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
