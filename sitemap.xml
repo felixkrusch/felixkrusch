@@ -61,14 +61,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog/test-blog-post-2</loc>
+    <loc>https://felixkrusch.com/blog/you-dont-need-a-cms-anymore</loc>
     <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://felixkrusch.com/blog/hello-world</loc>
-    <lastmod>2026-02-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -79,14 +73,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/test-blog-post-2</loc>
+    <loc>https://felixkrusch.com/de/blog/du-brauchst-kein-cms-mehr</loc>
     <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://felixkrusch.com/de/blog/hallo-welt</loc>
-    <lastmod>2026-02-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -97,14 +85,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog/test-article-blog-2</loc>
+    <loc>https://felixkrusch.com/fr/blog/vous-navez-plus-besoin-dun-cms</loc>
     <lastmod>2026-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://felixkrusch.com/fr/blog/bonjour-monde</loc>
-    <lastmod>2026-02-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

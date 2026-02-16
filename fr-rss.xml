@@ -6,22 +6,15 @@
     <link>https://felixkrusch.com/fr/blog</link>
     <atom:link href="https://felixkrusch.com/fr-rss.xml" rel="self" type="application/rss+xml"/>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 16 Feb 2026 17:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 19:51:40 GMT</lastBuildDate>
     <generator>Next.js</generator>
     
     <item>
-      <title><![CDATA[Test Article Blog 2]]></title>
-      <description><![CDATA[Ceci est un deuxième article de test pour démontrer le système de blog MDX.]]></description>
-      <link>https://felixkrusch.com/fr/blog/test-article-blog-2</link>
-      <guid>https://felixkrusch.com/fr/blog/test-article-blog-2</guid>
-      <pubDate>Mon, 16 Feb 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Bonjour le Monde !]]></title>
-      <description><![CDATA[Bienvenue dans mon nouveau blog alimenté par MDX. Ceci est le premier article de mon voyage pour partager des insights sur le développement web, le design et la stratégie digitale.]]></description>
-      <link>https://felixkrusch.com/fr/blog/bonjour-monde</link>
-      <guid>https://felixkrusch.com/fr/blog/bonjour-monde</guid>
-      <pubDate>Sat, 14 Feb 2026 14:58:35 GMT</pubDate>
+      <title><![CDATA[Vous n'avez plus besoin d'un CMS]]></title>
+      <description><![CDATA[La plupart des sites web n'ont pas besoin d'un CMS en 2026. La surcharge de sécurité, les problèmes UX et la complexité multilingue sont trop importantes. Écrivez dans une langue, polissez, traduisez et servez du markdown propre.]]></description>
+      <link>https://felixkrusch.com/fr/blog/vous-navez-plus-besoin-dun-cms</link>
+      <guid>https://felixkrusch.com/fr/blog/vous-navez-plus-besoin-dun-cms</guid>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

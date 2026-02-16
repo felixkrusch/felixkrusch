@@ -6,22 +6,15 @@
     <link>https://felixkrusch.com/blog</link>
     <atom:link href="https://felixkrusch.com/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Feb 2026 17:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 19:51:40 GMT</lastBuildDate>
     <generator>Next.js</generator>
     
     <item>
-      <title><![CDATA[Test Blog Post 2]]></title>
-      <description><![CDATA[This is a second test blog post to demonstrate the MDX blogging system.]]></description>
-      <link>https://felixkrusch.com/blog/test-blog-post-2</link>
-      <guid>https://felixkrusch.com/blog/test-blog-post-2</guid>
-      <pubDate>Mon, 16 Feb 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Hello World!]]></title>
-      <description><![CDATA[Welcome to my new MDX-powered blog. This is the first post in my journey of sharing insights about web development, design, and digital strategy.]]></description>
-      <link>https://felixkrusch.com/blog/hello-world</link>
-      <guid>https://felixkrusch.com/blog/hello-world</guid>
-      <pubDate>Sat, 14 Feb 2026 03:07:43 GMT</pubDate>
+      <title><![CDATA[You don't need a CMS anymore]]></title>
+      <description><![CDATA[Most websites don't need a CMS in 2026. The overhead of security, UX concerns, and multilingual complexity is too much. Write in one language, polish, translate, and serve clean markdown.]]></description>
+      <link>https://felixkrusch.com/blog/you-dont-need-a-cms-anymore</link>
+      <guid>https://felixkrusch.com/blog/you-dont-need-a-cms-anymore</guid>
+      <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
