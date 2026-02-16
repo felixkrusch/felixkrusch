@@ -6,12 +6,12 @@
     <link>https://felixkrusch.com/fr/blog</link>
     <atom:link href="https://felixkrusch.com/fr-rss.xml" rel="self" type="application/rss+xml"/>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 16 Feb 2026 19:51:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 19:53:35 GMT</lastBuildDate>
     <generator>Next.js</generator>
     
     <item>
       <title><![CDATA[Vous n'avez plus besoin d'un CMS]]></title>
-      <description><![CDATA[La plupart des sites web n'ont pas besoin d'un CMS en 2026. La surcharge de sécurité, les problèmes UX et la complexité multilingue sont trop importantes. Écrivez dans une langue, polissez, traduisez et servez du markdown propre.]]></description>
+      <description><![CDATA[Pas pour les blogs, pas pour le petit e-commerce, pas pour les sites d'entreprise. Préoccupations de sécurité, traînage des constructeurs de pages, temps perdu. Écrivez dans une langue, polissez, traduisez. Servez propre.]]></description>
       <link>https://felixkrusch.com/fr/blog/vous-navez-plus-besoin-dun-cms</link>
       <guid>https://felixkrusch.com/fr/blog/vous-navez-plus-besoin-dun-cms</guid>
       <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
