@@ -6,9 +6,16 @@
     <link>https://felixkrusch.com/blog</link>
     <atom:link href="https://felixkrusch.com/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Feb 2026 01:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 03:13:40 GMT</lastBuildDate>
     <generator>Next.js</generator>
     
+    <item>
+      <title><![CDATA[Noise drowns signal, people tune out]]></title>
+      <description><![CDATA[If the platform's filtering cannot surface scarce human signal effectively, noise drowns signal and people tune out. But when filtering works well, genuine personal content becomes disproportionately valuable.]]></description>
+      <link>https://felixkrusch.com/blog/noise-drowns-signal-people-tune-out</link>
+      <guid>https://felixkrusch.com/blog/noise-drowns-signal-people-tune-out</guid>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[You don't need a CMS anymore]]></title>
       <description><![CDATA[Not for blogs, not for small e-commerce, not for company sites. Security concerns, page builder drag, wasted time. Write in one language, polish automatically, translate . Serve clean and fast.]]></description>

@@ -6,9 +6,16 @@
     <link>https://felixkrusch.com/de/blog</link>
     <atom:link href="https://felixkrusch.com/de-rss.xml" rel="self" type="application/rss+xml"/>
     <language>de-de</language>
-    <lastBuildDate>Tue, 17 Feb 2026 01:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 03:13:40 GMT</lastBuildDate>
     <generator>Next.js</generator>
     
+    <item>
+      <title><![CDATA[Lärm killt das Signal, der Mensch schaltet ab]]></title>
+      <description><![CDATA[Wenn der Filter einer Plattform das menschliche Signal nicht effektiv an die Oberfläche bringt, ertränkt der Lärm das Signal und der Mensch schaltet ab. Aber wenn der Filter gut funktioniert, wird authentischer persönlicher Inhalt unverhältnismäßig wertvoll.]]></description>
+      <link>https://felixkrusch.com/de/blog/laerm-ertraenkt-das-signal-menschen-schalten-ab</link>
+      <guid>https://felixkrusch.com/de/blog/laerm-ertraenkt-das-signal-menschen-schalten-ab</guid>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Du brauchst kein CMS mehr]]></title>
       <description><![CDATA[Nicht für Blogs, nicht für kleinen E-Commerce, nicht für Unternehmensseiten. Sicherheitsbedenken, Page-Builder-Schlepperei, verschwendete Zeit. Schreibe in einer Sprache, poliere, übersetze automatisch. Serviere sauber.]]></description>
