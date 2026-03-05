@@ -19,6 +19,12 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://felixkrusch.com/refer-and-earn</loc>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://felixkrusch.com/fr</loc>
     <lastmod>2026-02-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -35,6 +41,12 @@
     <lastmod>2026-02-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/fr/recommander</loc>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://felixkrusch.com/de</loc>
@@ -55,6 +67,12 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://felixkrusch.com/de/empfehlen</loc>
+    <lastmod>2026-03-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://felixkrusch.com/blog</loc>
     <lastmod>2026-03-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -63,12 +81,6 @@
   <url>
     <loc>https://felixkrusch.com/blog/wordpress-fse-diminishing-returns</loc>
     <lastmod>2026-02-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://felixkrusch.com/blog/why-85-percent-of-cleaning-companies-and-janitor-websites-scare-off-customers-in-2026</loc>
-    <lastmod>2026-02-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -103,12 +115,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/warum-85-prozent-der-reinigungsfirmen-und-hausmeister-websites-2026-kunden-vergraulen</loc>
-    <lastmod>2026-02-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://felixkrusch.com/de/blog/freelancer-zerlegen-agenturen-fuer-kmu-2026-wach-auf</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>monthly</changefreq>
@@ -135,12 +141,6 @@
   <url>
     <loc>https://felixkrusch.com/fr/blog/wordpress-fse-rendements-decroissants</loc>
     <lastmod>2026-02-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://felixkrusch.com/fr/blog/pourquoi-85-pourcent-des-sites-web-dentreprises-de-nettoyage-et-de-conciergerie-font-fuir-les-clients-en-2026</loc>
-    <lastmod>2026-02-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
