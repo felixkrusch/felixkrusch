@@ -1,8 +1,4 @@
 User-agent: *
 Allow: /
 
-# Disallow Next.js build artifacts
-Disallow: /_next/
-Disallow: /api/
-
 Sitemap: https://felixkrusch.com/sitemap.xml
