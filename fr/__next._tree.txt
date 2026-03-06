@@ -1,5 +1,5 @@
 :HL["/felixkrusch.com-2026/_next/static/chunks/8a80e7184ad3a13f.css","style"]
-:HL["/felixkrusch.com-2026/_next/static/chunks/554ef162b3b15051.css","style"]
+:HL["/felixkrusch.com-2026/_next/static/chunks/2e4756c2175d45a0.css","style"]
 :HL["/felixkrusch.com-2026/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/felixkrusch.com-2026/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"7utHB9p11G9JLcDDA16Ui","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"fr","paramType":null,"paramKey":"fr","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"Lv9vBDL7kvQ6zkRQtNF0j","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"fr","paramType":null,"paramKey":"fr","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
