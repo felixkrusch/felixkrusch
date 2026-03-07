@@ -1,0 +1,40 @@
+1:"$Sreact.fragment"
+2:I[13474,["/_next/static/chunks/0e1195f209bb254d.js","/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/d7e3faad62b38da8.js"],"Navigation"]
+3:I[22016,["/_next/static/chunks/0e1195f209bb254d.js","/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/d7e3faad62b38da8.js"],""]
+d:I[76841,["/_next/static/chunks/0e1195f209bb254d.js","/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/d7e3faad62b38da8.js"],"Footer"]
+e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"OutletBoundary"]
+f:"$Sreact.suspense"
+4:T64c,
+<p>2026: Deine Website sollte nicht jedes Mal kämpfen, wenn du sie aktualisieren willst.</p>
+
+<p>Ich habe tatsächlich einen richtigen mehrsprachigen Blog in WordPress gebaut (EN, DE, FR). Kaum hatte ich angefangen zu posten, bin ich schon gegen die Wand gelaufen. Selbst heute gibt es noch keine echte native Mehrsprachigkeit. Jedes SEO-Feld, Schema-Markup und Meta-Tag musst du manuell ausfüllen.</p>
+
+<p>Genau da hat es klick gemacht. Als Entwickler ist es für mich deutlich effizienter, einfach Chat als CMS zu nutzen.</p>
+
+<p>Bei nicht-technischen Kunden gehen wir noch einen Schritt weiter: KI-Agenten, die als deine komplette Website-Abteilung arbeiten.</p>
+
+<p>Der Workflow ist lächerlich einfach.</p>
+
+<p>Schick dem Agenten eine E-Mail mit einem Blog-Entwurf oder nur einer Idee. Er verfeinert alles, erledigt die Technik und schickt dir einen Staging-Link zur Prüfung. Du gibst grünes Licht – er veröffentlicht.</p>
+
+<p>Willst du die Telefonnummer im Footer ändern? Oder ein Bild auf einer Seite austauschen? Gleiches Spiel. Der Agent macht den Job, schickt dir einen Staging-Link und veröffentlicht erst nach deinem Okay.</p>
+
+<p>Du behältst jederzeit die volle Kontrolle. Kein Kontrollverlust. Keine Überraschungen.</p>
+
+<p>Schluss mit dem Gutenberg-Kampf. Kein Plugin-Chaos. Kein manuelles SEO-Gefummel.</p>
+
+<p>Einfach schnelle, saubere Ergebnisse.</p>
+
+<p>Es geht nicht darum, dass die Agenten alles für dich schreiben (auch wenn sie es könnten). Sie sitzen zwischen dir und der Website – damit du das Backend nie wieder anfassen musst.</p>
+
+<p>Einfacher ist einfach besser.</p>
+0:{"buildId":"gI1sBLmGlkqtF1IOh_bK3","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","children":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Agenten sind das neue CMS\",\"description\":\"2026: Deine Website sollte nicht jedes Mal kämpfen, wenn du sie aktualisieren willst. KI-Agenten, die als deine komplette Website-Abteilung arbeiten.\",\"url\":\"https://felixkrusch.com/de/blog/agenten-sind-das-neue-cms\",\"datePublished\":\"2026-03-07T12:00:00Z\",\"dateModified\":\"2026-03-07T12:00:00Z\",\"inLanguage\":\"de\",\"author\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"url\":\"https://felixkrusch.com\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://felixkrusch.com/felixkrusch-logo-2026.svg\"}}}"}],["$","main",null,{"className":"min-h-screen","children":[["$","$L2",null,{"lang":"de"}],["$","article",null,{"className":"container mx-auto px-4 py-24","children":["$","div",null,{"className":"max-w-2xl mx-auto","children":[["$","$L3",null,{"href":"/de/blog","className":"text-primary hover:underline mb-12 inline-block","children":["← ","Zurück zum Blog"]}],"$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-balance","children":"Agenten sind das neue CMS"}],["$","div",null,{"className":"prose prose-lg max-w-none mb-8","dangerouslySetInnerHTML":{"__html":"$4"}}],["$","div",null,{"className":"text-sm text-muted-foreground","children":["$","time",null,{"children":"7. März 2026"}]}]]}]}]]}],["$","section",null,{"id":"contact","className":"py-24 md:py-32 px-6 md:px-12 lg:px-24 bg-foreground text-background","children":["$","div",null,{"className":"max-w-6xl","children":["$","div",null,{"className":"grid lg:grid-cols-2 gap-12 lg:gap-24","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm uppercase tracking-[0.3em] text-background/60 mb-4","children":"Kontakt"}],["$","h2",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6","children":["Bereit zum","$L5","$L6"]}],"$L7"]}],"$L8"]}]}]}],"$L9"],["$La","$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+5:["$","br",null,{}]
+6:["$","span",null,{"className":"text-accent","children":"Start?"}]
+7:["$","p",null,{"className":"text-lg text-background/80 leading-relaxed","children":"Senden Sie mir eine kurze Nachricht – ich antworte innerhalb von 24–48 Stunden mit ersten Gedanken und, falls es passt, einem groben Zeitplan und Angebot."}]
+8:["$","div",null,{"className":"flex justify-end items-end h-full","children":["$","div",null,{"className":"space-y-4 text-background/60","children":[["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Email",":"]}]," ",["$","a",null,{"href":"mailto:fk@felixkrusch.com","className":"text-background hover:text-accent transition-colors","children":"fk@felixkrusch.com"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Telefon/WhatsApp",":"]}]," ",["$","a",null,{"href":"https://wa.me/+4915679778463","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"+49 156 79778463"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["LinkedIn",":"]}]," ",["$","a",null,{"href":"https://linkedin.com/in/fkrusch/","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"linkedin.com/in/fkrusch/"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Facebook",":"]}]," ",["$","a",null,{"href":"https://facebook.com/kruschfelix/","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"facebook.com/kruschfelix/"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Standort",":"]}]," ","Herborn, De"]}]]}]}]
+9:["$","$Ld",null,{"lang":"de"}]
+a:["$","script","script-0",{"src":"/_next/static/chunks/bea932c054b7bd5d.js","async":true}]
+b:["$","script","script-1",{"src":"/_next/static/chunks/d7e3faad62b38da8.js","async":true}]
+c:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

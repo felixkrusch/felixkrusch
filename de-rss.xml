@@ -6,9 +6,16 @@
     <link>https://felixkrusch.com/de/blog</link>
     <atom:link href="https://felixkrusch.com/de-rss.xml" rel="self" type="application/rss+xml"/>
     <language>de-de</language>
-    <lastBuildDate>Fri, 06 Mar 2026 13:59:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 19:57:52 GMT</lastBuildDate>
     <generator>Next.js</generator>
     
+    <item>
+      <title><![CDATA[Agenten sind das neue CMS]]></title>
+      <description><![CDATA[2026: Deine Website sollte nicht jedes Mal kämpfen, wenn du sie aktualisieren willst. KI-Agenten, die als deine komplette Website-Abteilung arbeiten.]]></description>
+      <link>https://felixkrusch.com/de/blog/agenten-sind-das-neue-cms</link>
+      <guid>https://felixkrusch.com/de/blog/agenten-sind-das-neue-cms</guid>
+      <pubDate>Sat, 07 Mar 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[WordPress FSE - aufwendig und unflexibel]]></title>
       <description><![CDATA[WordPress FSE ist das Paradebeispiel dafür, dass mehr Aufwand immer weniger bringt. Das Verhältnis von Komplexität zu Flexibilität ergibt keinen Sinn, wenn moderne Stacks einfach funktionieren.]]></description>

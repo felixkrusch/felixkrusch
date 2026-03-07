@@ -6,9 +6,16 @@
     <link>https://felixkrusch.com/fr/blog</link>
     <atom:link href="https://felixkrusch.com/fr-rss.xml" rel="self" type="application/rss+xml"/>
     <language>fr-fr</language>
-    <lastBuildDate>Fri, 06 Mar 2026 13:59:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 19:57:52 GMT</lastBuildDate>
     <generator>Next.js</generator>
     
+    <item>
+      <title><![CDATA[Les agents sont le nouveau CMS]]></title>
+      <description><![CDATA[2026 : Ton site ne devrait plus lutter contre toi à chaque mise à jour. Des agents IA qui font office de département web complet.]]></description>
+      <link>https://felixkrusch.com/fr/blog/les-agents-sont-le-nouveau-cms</link>
+      <guid>https://felixkrusch.com/fr/blog/les-agents-sont-le-nouveau-cms</guid>
+      <pubDate>Sat, 07 Mar 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[WordPress FSE : rendements décroissants]]></title>
       <description><![CDATA[WordPress FSE est une leçon de rendements décroissants. Le rapport complexité/flexibilité n'a pas de sens quand les stacks modernes fonctionnent tout simplement.]]></description>
