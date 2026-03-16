@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+2:I[13474,["/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/27369133e247dbde.js"],"Navigation"]
+3:I[22016,["/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/27369133e247dbde.js"],""]
+e:I[76841,["/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/27369133e247dbde.js"],"Footer"]
+f:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"OutletBoundary"]
+10:"$Sreact.suspense"
+4:T461,
+<p>2026: I shut down RichWP. Then I built the CMS I always wanted.</p>
+
+<p>I shut down RichWP — a WordPress theme business I had built since 2010 — for good.</p>
+
+<p>Yes, I was a die-hard WordPress guy. But it got harder and harder to justify using it.</p>
+
+<p>Pretty much on the same day I had this idea:</p>
+
+<p>What if the CMS was just a conversation?</p>
+
+<p>What if updating your site was as simple as texting someone?</p>
+
+<p>So I built A3lix.</p>
+
+<p>You are a developer.</p>
+
+<p>You have built a gorgeous restaurant website — fast, modern, deployed on Cloudflare Pages.</p>
+
+<p>The client loves it.</p>
+
+<p>Then they ask: "How do I update the menu du jour?"</p>
+
+<p>Now what?</p>
+
+<p>With A3lix, the restaurant owner texts her change to a Telegram bot.</p>
+
+<p>The site updates.</p>
+
+<p>You are not involved.</p>
+
+<p>Everyone is happy.</p>
+
+<p>One message. Done.</p>
+
+<p>No heavy UI. No Gutenberg. No drama.</p>
+
+<p>I launched it just a few days ago with zero marketing.</p>
+
+<p>It already has real traction.</p>
+
+<p>Try it: <a href="https://a3lix.com/">https://a3lix.com/</a></p>
+
+<p>Open Source (MIT)</p>0:{"buildId":"1OqoUonezxid3lVGYD3Gx","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","children":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"2026: I shut down RichWP. Then I built the CMS I always wanted.\",\"description\":\"2026: I shut down RichWP — a WordPress theme business I had built since 2010 — for good.\",\"url\":\"https://felixkrusch.com/blog/i-shut-down-richwp-then-i-built-the-cms-i-always-wanted\",\"datePublished\":\"2026-03-16T12:00:00Z\",\"dateModified\":\"2026-03-16T12:00:00Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"url\":\"https://felixkrusch.com\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://felixkrusch.com/felixkrusch-logo-2026.svg\"}}}"}],["$","$L2",null,{"lang":"en"}],["$","main",null,{"className":"flex-grow","children":["$","article",null,{"className":"container mx-auto px-4 py-24","children":["$","div",null,{"className":"max-w-2xl mx-auto","children":[["$","$L3",null,{"href":"/blog","className":"text-primary hover:underline mb-12 inline-block","children":["← ","Back to Blog"]}],"$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-balance","children":"2026: I shut down RichWP. Then I built the CMS I always wanted."}],["$","div",null,{"className":"prose prose-lg max-w-none mb-8","dangerouslySetInnerHTML":{"__html":"$4"}}],["$","div",null,{"className":"text-sm text-muted-foreground","children":["$","time",null,{"children":"March 16, 2026"}]}]]}]}]}],["$","section",null,{"id":"contact","className":"py-24 md:py-32 px-6 md:px-12 lg:px-24 bg-foreground text-background","children":["$","div",null,{"className":"max-w-6xl","children":["$","div",null,{"className":"grid lg:grid-cols-2 gap-12 lg:gap-24","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm uppercase tracking-[0.3em] text-background/60 mb-4","children":"Contact"}],["$","h2",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6","children":["Ready to",["$","br",null,{}],["$","span",null,{"className":"text-accent","children":"get started?"}]]}],["$","p",null,{"className":"text-lg text-background/80 leading-relaxed","children":"Send me a short message - I'll get back to you within 24–48 hours with initial thoughts and, if it's a good fit, a rough timeline and quote."}]]}],["$","div",null,{"className":"flex justify-end items-end h-full","children":["$","div",null,{"className":"space-y-4 text-background/60","children":[["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Email",":"]}]," ","$L5"]}],"$L6","$L7","$L8","$L9"]}]}]]}]}]}],"$La"],["$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+5:["$","a",null,{"href":"mailto:fk@felixkrusch.com","className":"text-background hover:text-accent transition-colors","children":"fk@felixkrusch.com"}]
+6:["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Phone",":"]}]," ","+1 581 222 2515"]}]
+7:["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["LinkedIn",":"]}]," ",["$","a",null,{"href":"https://linkedin.com/in/fkrusch/","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"linkedin.com/in/fkrusch/"}]]}]
+8:["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Facebook",":"]}]," ",["$","a",null,{"href":"https://facebook.com/kruschfelix/","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"facebook.com/kruschfelix/"}]]}]
+9:["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Location",":"]}]," ","Montreal, QC"]}]
+a:["$","$Le",null,{"lang":"en"}]
+b:["$","script","script-0",{"src":"/_next/static/chunks/bea932c054b7bd5d.js","async":true}]
+c:["$","script","script-1",{"src":"/_next/static/chunks/27369133e247dbde.js","async":true}]
+d:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

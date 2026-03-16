@@ -74,9 +74,15 @@
   </url>
   <url>
     <loc>https://felixkrusch.com/blog</loc>
-    <lastmod>2026-03-08</lastmod>
+    <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/blog/i-shut-down-richwp-then-i-built-the-cms-i-always-wanted</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://felixkrusch.com/blog/agents-are-the-new-cms</loc>
@@ -116,9 +122,15 @@
   </url>
   <url>
     <loc>https://felixkrusch.com/de/blog</loc>
-    <lastmod>2026-03-08</lastmod>
+    <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/de/blog/ich-habe-richwp-eingestellt-dann-habe-ich-das-cms-gebaut-das-ich-immer-wollte</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://felixkrusch.com/de/blog/agenten-sind-das-neue-cms</loc>
@@ -158,9 +170,15 @@
   </url>
   <url>
     <loc>https://felixkrusch.com/fr/blog</loc>
-    <lastmod>2026-03-08</lastmod>
+    <lastmod>2026-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/fr/blog/jai-ferme-richwp-puis-jai-construit-le-cms-que-jai-toujours-voulu</loc>
+    <lastmod>2026-03-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://felixkrusch.com/fr/blog/les-agents-sont-le-nouveau-cms</loc>

@@ -6,9 +6,16 @@
     <link>https://felixkrusch.com/de/blog</link>
     <atom:link href="https://felixkrusch.com/de-rss.xml" rel="self" type="application/rss+xml"/>
     <language>de-de</language>
-    <lastBuildDate>Sun, 08 Mar 2026 01:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 13:08:44 GMT</lastBuildDate>
     <generator>Next.js</generator>
     
+    <item>
+      <title><![CDATA[2026: Ich habe RichWP eingestellt. Dann habe ich das CMS gebaut, das ich immer wollte.]]></title>
+      <description><![CDATA[2026: Ich habe RichWP — ein WordPress-Theme-Business, das ich seit 2010 aufgebaut hatte — endgültig eingestellt.]]></description>
+      <link>https://felixkrusch.com/de/blog/ich-habe-richwp-eingestellt-dann-habe-ich-das-cms-gebaut-das-ich-immer-wollte</link>
+      <guid>https://felixkrusch.com/de/blog/ich-habe-richwp-eingestellt-dann-habe-ich-das-cms-gebaut-das-ich-immer-wollte</guid>
+      <pubDate>Mon, 16 Mar 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Agenten sind das neue CMS]]></title>
       <description><![CDATA[2026: Deine Website sollte nicht jedes Mal kämpfen, wenn du sie aktualisieren willst. KI-Agenten, die als deine komplette Website-Abteilung arbeiten.]]></description>
