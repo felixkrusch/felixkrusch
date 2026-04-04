@@ -6,9 +6,16 @@
     <link>https://felixkrusch.com/blog</link>
     <atom:link href="https://felixkrusch.com/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 13:08:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 23:52:48 GMT</lastBuildDate>
     <generator>Next.js</generator>
     
+    <item>
+      <title><![CDATA[Agility and Pivots]]></title>
+      <description><![CDATA[I never planned to specialize. I just got really good at one thing because that was how I lived. Over time it became my sharp spike.]]></description>
+      <link>https://felixkrusch.com/blog/agility-and-pivots</link>
+      <guid>https://felixkrusch.com/blog/agility-and-pivots</guid>
+      <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[2026: I shut down RichWP. Then I built the CMS I always wanted.]]></title>
       <description><![CDATA[2026: I shut down RichWP — a WordPress theme business I had built since 2010 — for good.]]></description>

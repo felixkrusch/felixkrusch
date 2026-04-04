@@ -74,9 +74,15 @@
   </url>
   <url>
     <loc>https://felixkrusch.com/blog</loc>
-    <lastmod>2026-03-16</lastmod>
+    <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/blog/agility-and-pivots</loc>
+    <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://felixkrusch.com/blog/i-shut-down-richwp-then-i-built-the-cms-i-always-wanted</loc>
@@ -122,9 +128,15 @@
   </url>
   <url>
     <loc>https://felixkrusch.com/de/blog</loc>
-    <lastmod>2026-03-16</lastmod>
+    <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/de/blog/agilität-und-richtungswechsel</loc>
+    <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://felixkrusch.com/de/blog/ich-habe-richwp-eingestellt-dann-habe-ich-das-cms-gebaut-das-ich-immer-wollte</loc>
@@ -170,9 +182,15 @@
   </url>
   <url>
     <loc>https://felixkrusch.com/fr/blog</loc>
-    <lastmod>2026-03-16</lastmod>
+    <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/fr/blog/agilité-et-pivots</loc>
+    <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://felixkrusch.com/fr/blog/jai-ferme-richwp-puis-jai-construit-le-cms-que-jai-toujours-voulu</loc>
