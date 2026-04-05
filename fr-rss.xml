@@ -6,57 +6,64 @@
     <link>https://felixkrusch.com/fr/blog</link>
     <atom:link href="https://felixkrusch.com/fr-rss.xml" rel="self" type="application/rss+xml"/>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 05 Apr 2026 00:47:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 09:16:31 GMT</lastBuildDate>
     <generator>Next.js</generator>
-    
-    <item>
-      <title><![CDATA[2026: J'ai fermé RichWP. Puis j'ai construit le CMS que j'ai toujours voulu.]]></title>
-      <description><![CDATA[2026: J'ai fermé RichWP — une entreprise de thèmes WordPress que j'ai bâtie depuis 2010 — pour de bon.]]></description>
-      <link>https://felixkrusch.com/fr/blog/jai-ferme-richwp-puis-jai-construit-le-cms-que-jai-toujours-voulu</link>
-      <guid>https://felixkrusch.com/fr/blog/jai-ferme-richwp-puis-jai-construit-le-cms-que-jai-toujours-voulu</guid>
-      <pubDate>Mon, 16 Mar 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Les agents sont le nouveau CMS]]></title>
-      <description><![CDATA[2026 : Ton site ne devrait plus lutter contre toi à chaque mise à jour. Des agents IA qui font office de département web complet.]]></description>
-      <link>https://felixkrusch.com/fr/blog/les-agents-sont-le-nouveau-cms</link>
-      <guid>https://felixkrusch.com/fr/blog/les-agents-sont-le-nouveau-cms</guid>
-      <pubDate>Sat, 07 Mar 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[WordPress FSE : rendements décroissants]]></title>
-      <description><![CDATA[WordPress FSE est une leçon de rendements décroissants. Le rapport complexité/flexibilité n'a pas de sens quand les stacks modernes fonctionnent tout simplement.]]></description>
-      <link>https://felixkrusch.com/fr/blog/wordpress-fse-rendements-decroissants</link>
-      <guid>https://felixkrusch.com/fr/blog/wordpress-fse-rendements-decroissants</guid>
-      <pubDate>Sat, 28 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Pourquoi 85 % des sites web d'entreprises de nettoyage et de conciergerie font fuir les clients en 2026]]></title>
-      <description><![CDATA[La dure vérité : Temps de chargement lents, prix peu clairs, formulaires absents, images fake, pas d'avis, problèmes mobiles. Une simple one-pager corrige 80 % et apporte plus de demandes. Pas d'agence nécessaire.]]></description>
-      <link>https://felixkrusch.com/fr/blog/pourquoi-85-pourcent-des-sites-web-dentreprises-de-nettoyage-et-de-conciergerie-font-fuir-les-clients-en-2026</link>
-      <guid>https://felixkrusch.com/fr/blog/pourquoi-85-pourcent-des-sites-web-dentreprises-de-nettoyage-et-de-conciergerie-font-fuir-les-clients-en-2026</guid>
-      <pubDate>Fri, 20 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Les Freelances Détruisent les Agences pour les PME en 2026 – Ouvrez les yeux !]]></title>
-      <description><![CDATA[Les petites et moyennes boîtes se font plumer par les agences. Les freelances livrent 90-110% de qualité pour 30-60% du prix avec une livraison plus rapide.]]></description>
-      <link>https://felixkrusch.com/fr/blog/les-freelances-detruisent-les-agences-pour-les-pme-en-2026-ouvrez-les-yeux</link>
-      <guid>https://felixkrusch.com/fr/blog/les-freelances-detruisent-les-agences-pour-les-pme-en-2026-ouvrez-les-yeux</guid>
-      <pubDate>Wed, 18 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Le bruit noie le signal, l’humain décroche]]></title>
-      <description><![CDATA[Si le filtre d’une plateforme ne parvient pas à faire émerger efficacement le signal humain, le bruit noie le signal et l’humain se déconnecte. Mais quand le filtre fonctionne bien, le contenu authentique et personnel devient disproportionnellement précieux.]]></description>
-      <link>https://felixkrusch.com/fr/blog/le-bruit-noie-le-signal-les-gens-se-desengagent</link>
-      <guid>https://felixkrusch.com/fr/blog/le-bruit-noie-le-signal-les-gens-se-desengagent</guid>
-      <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Vous n'avez plus besoin d'un CMS]]></title>
-      <description><![CDATA[Pas pour les blogs, pas pour le petit e-commerce, pas pour les sites d'entreprise. Préoccupations de sécurité, traînage des constructeurs de pages, temps perdu. Écrivez dans une langue, polissez, traduisez automatiquement. Servez propre.]]></description>
-      <link>https://felixkrusch.com/fr/blog/vous-navez-plus-besoin-dun-cms</link>
-      <guid>https://felixkrusch.com/fr/blog/vous-navez-plus-besoin-dun-cms</guid>
-      <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
+     
+     <item>
+       <title><![CDATA[Agilité et Pivots]]></title>
+       <description><![CDATA[Je n’ai jamais prévu de me spécialiser. J’ai simplement excellé dans un domaine parce que c’était ainsi que je gagnais ma vie. Avec le temps, cela est devenu ma force principale.]]></description>
+       <link>https://felixkrusch.com/fr/blog/agilité-et-pivots</link>
+       <guid>https://felixkrusch.com/fr/blog/agilité-et-pivots</guid>
+       <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[2026: J'ai fermé RichWP. Puis j'ai construit le CMS que j'ai toujours voulu.]]></title>
+       <description><![CDATA[2026: J'ai fermé RichWP — une entreprise de thèmes WordPress que j'ai bâtie depuis 2010 — pour de bon.]]></description>
+       <link>https://felixkrusch.com/fr/blog/jai-ferme-richwp-puis-jai-construit-le-cms-que-jai-toujours-voulu</link>
+       <guid>https://felixkrusch.com/fr/blog/jai-ferme-richwp-puis-jai-construit-le-cms-que-jai-toujours-voulu</guid>
+       <pubDate>Mon, 16 Mar 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Les agents sont le nouveau CMS]]></title>
+       <description><![CDATA[2026 : Ton site ne devrait plus lutter contre toi à chaque mise à jour. Des agents IA qui font office de département web complet.]]></description>
+       <link>https://felixkrusch.com/fr/blog/les-agents-sont-le-nouveau-cms</link>
+       <guid>https://felixkrusch.com/fr/blog/les-agents-sont-le-nouveau-cms</guid>
+       <pubDate>Sat, 07 Mar 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[WordPress FSE : rendements décroissants]]></title>
+       <description><![CDATA[WordPress FSE est une leçon de rendements décroissants. Le rapport complexité/flexibilité n'a pas de sens quand les stacks modernes fonctionnent tout simplement.]]></description>
+       <link>https://felixkrusch.com/fr/blog/wordpress-fse-rendements-decroissants</link>
+       <guid>https://felixkrusch.com/fr/blog/wordpress-fse-rendements-decroissants</guid>
+       <pubDate>Sat, 28 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Pourquoi 85 % des sites web d'entreprises de nettoyage et de conciergerie font fuir les clients en 2026]]></title>
+       <description><![CDATA[La dure vérité : Temps de chargement lents, prix peu clairs, formulaires absents, images fake, pas d'avis, problèmes mobiles. Une simple one-pager corrige 80 % et apporte plus de demandes. Pas d'agence nécessaire.]]></description>
+       <link>https://felixkrusch.com/fr/blog/pourquoi-85-pourcent-des-sites-web-dentreprises-de-nettoyage-et-de-conciergerie-font-fuir-les-clients-en-2026</link>
+       <guid>https://felixkrusch.com/fr/blog/pourquoi-85-pourcent-des-sites-web-dentreprises-de-nettoyage-et-de-conciergerie-font-fuir-les-clients-en-2026</guid>
+       <pubDate>Fri, 20 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Les Freelances Détruisent les Agences pour les PME en 2026 – Ouvrez les yeux !]]></title>
+       <description><![CDATA[Les petites et moyennes boîtes se font plumer par les agences. Les freelances livrent 90-110% de qualité pour 30-60% du prix avec une livraison plus rapide.]]></description>
+       <link>https://felixkrusch.com/fr/blog/les-freelances-detruisent-les-agences-pour-les-pme-en-2026-ouvrez-les-yeux</link>
+       <guid>https://felixkrusch.com/fr/blog/les-freelances-detruisent-les-agences-pour-les-pme-en-2026-ouvrez-les-yeux</guid>
+       <pubDate>Wed, 18 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Le bruit noie le signal, l’humain décroche]]></title>
+       <description><![CDATA[Si le filtre d’une plateforme ne parvient pas à faire émerger efficacement le signal humain, le bruit noie le signal et l’humain se déconnecte. Mais quand le filtre fonctionne bien, le contenu authentique et personnel devient disproportionnellement précieux.]]></description>
+       <link>https://felixkrusch.com/fr/blog/le-bruit-noie-le-signal-les-gens-se-desengagent</link>
+       <guid>https://felixkrusch.com/fr/blog/le-bruit-noie-le-signal-les-gens-se-desengagent</guid>
+       <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Vous n'avez plus besoin d'un CMS]]></title>
+       <description><![CDATA[Pas pour les blogs, pas pour le petit e-commerce, pas pour les sites d'entreprise. Préoccupations de sécurité, traînage des constructeurs de pages, temps perdu. Écrivez dans une langue, polissez, traduisez automatiquement. Servez propre.]]></description>
+       <link>https://felixkrusch.com/fr/blog/vous-navez-plus-besoin-dun-cms</link>
+       <guid>https://felixkrusch.com/fr/blog/vous-navez-plus-besoin-dun-cms</guid>
+       <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
   </channel>
 </rss>

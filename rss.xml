@@ -6,57 +6,64 @@
     <link>https://felixkrusch.com/blog</link>
     <atom:link href="https://felixkrusch.com/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2026 00:47:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 09:16:31 GMT</lastBuildDate>
     <generator>Next.js</generator>
-    
-    <item>
-      <title><![CDATA[2026: I shut down RichWP. Then I built the CMS I always wanted.]]></title>
-      <description><![CDATA[2026: I shut down RichWP — a WordPress theme business I had built since 2010 — for good.]]></description>
-      <link>https://felixkrusch.com/blog/i-shut-down-richwp-then-i-built-the-cms-i-always-wanted</link>
-      <guid>https://felixkrusch.com/blog/i-shut-down-richwp-then-i-built-the-cms-i-always-wanted</guid>
-      <pubDate>Mon, 16 Mar 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agents Are the New CMS]]></title>
-      <description><![CDATA[2026: Your website shouldn't fight you every time you want to update it. AI agents sitting between you and the site so you never have to touch the backend again.]]></description>
-      <link>https://felixkrusch.com/blog/agents-are-the-new-cms</link>
-      <guid>https://felixkrusch.com/blog/agents-are-the-new-cms</guid>
-      <pubDate>Sat, 07 Mar 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[WordPress FSE diminishing returns]]></title>
-      <description><![CDATA[WordPress FSE is a lesson in diminishing returns. The complexity-to-flexibility ratio doesn't make sense when modern stacks just work.]]></description>
-      <link>https://felixkrusch.com/blog/wordpress-fse-diminishing-returns</link>
-      <guid>https://felixkrusch.com/blog/wordpress-fse-diminishing-returns</guid>
-      <pubDate>Sat, 28 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Why 85% of Cleaning Companies & Janitor Websites Scare Off Customers in 2026]]></title>
-      <description><![CDATA[The hard truth: Slow loading times, unclear prices, missing forms, fake images, no reviews, mobile issues. A simple one-pager fixes 80% and brings more inquiries. No agency needed.]]></description>
-      <link>https://felixkrusch.com/blog/why-85-percent-of-cleaning-companies-and-janitor-websites-scare-off-customers-in-2026</link>
-      <guid>https://felixkrusch.com/blog/why-85-percent-of-cleaning-companies-and-janitor-websites-scare-off-customers-in-2026</guid>
-      <pubDate>Fri, 20 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Freelancers Obliterate Agencies for SMEs in 2026 - Wake Up]]></title>
-      <description><![CDATA[Small/midsize businesses are getting robbed by agencies charging 3-4x more for the same work. Freelancers deliver 90-110% quality for 30-60% of the price with faster delivery.]]></description>
-      <link>https://felixkrusch.com/blog/freelancers-obliterate-agencies-for-smes-in-2026-wake-up</link>
-      <guid>https://felixkrusch.com/blog/freelancers-obliterate-agencies-for-smes-in-2026-wake-up</guid>
-      <pubDate>Wed, 18 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Noise drowns signal, people tune out]]></title>
-      <description><![CDATA[If the platform's filtering cannot surface scarce human signal effectively, noise drowns signal and people tune out. But when filtering works well, genuine personal content becomes disproportionately valuable.]]></description>
-      <link>https://felixkrusch.com/blog/noise-drowns-signal-people-tune-out</link>
-      <guid>https://felixkrusch.com/blog/noise-drowns-signal-people-tune-out</guid>
-      <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[You don't need a CMS anymore]]></title>
-      <description><![CDATA[Not for blogs, not for small e-commerce, not for company sites. Security concerns, page builder drag, wasted time. Write in one language, polish automatically, translate . Serve clean and fast.]]></description>
-      <link>https://felixkrusch.com/blog/you-dont-need-a-cms-anymore</link>
-      <guid>https://felixkrusch.com/blog/you-dont-need-a-cms-anymore</guid>
-      <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
+     
+     <item>
+       <title><![CDATA[Agility and Pivots]]></title>
+       <description><![CDATA[I never planned to specialize. I just got really good at one thing because that was how I lived. Over time it became my sharp spike.]]></description>
+       <link>https://felixkrusch.com/blog/agility-and-pivots</link>
+       <guid>https://felixkrusch.com/blog/agility-and-pivots</guid>
+       <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[2026: I shut down RichWP. Then I built the CMS I always wanted.]]></title>
+       <description><![CDATA[2026: I shut down RichWP — a WordPress theme business I had built since 2010 — for good.]]></description>
+       <link>https://felixkrusch.com/blog/i-shut-down-richwp-then-i-built-the-cms-i-always-wanted</link>
+       <guid>https://felixkrusch.com/blog/i-shut-down-richwp-then-i-built-the-cms-i-always-wanted</guid>
+       <pubDate>Mon, 16 Mar 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Agents Are the New CMS]]></title>
+       <description><![CDATA[2026: Your website shouldn't fight you every time you want to update it. AI agents sitting between you and the site so you never have to touch the backend again.]]></description>
+       <link>https://felixkrusch.com/blog/agents-are-the-new-cms</link>
+       <guid>https://felixkrusch.com/blog/agents-are-the-new-cms</guid>
+       <pubDate>Sat, 07 Mar 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[WordPress FSE diminishing returns]]></title>
+       <description><![CDATA[WordPress FSE is a lesson in diminishing returns. The complexity-to-flexibility ratio doesn't make sense when modern stacks just work.]]></description>
+       <link>https://felixkrusch.com/blog/wordpress-fse-diminishing-returns</link>
+       <guid>https://felixkrusch.com/blog/wordpress-fse-diminishing-returns</guid>
+       <pubDate>Sat, 28 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Why 85% of Cleaning Companies & Janitor Websites Scare Off Customers in 2026]]></title>
+       <description><![CDATA[The hard truth: Slow loading times, unclear prices, missing forms, fake images, no reviews, mobile issues. A simple one-pager fixes 80% and brings more inquiries. No agency needed.]]></description>
+       <link>https://felixkrusch.com/blog/why-85-percent-of-cleaning-companies-and-janitor-websites-scare-off-customers-in-2026</link>
+       <guid>https://felixkrusch.com/blog/why-85-percent-of-cleaning-companies-and-janitor-websites-scare-off-customers-in-2026</guid>
+       <pubDate>Fri, 20 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Freelancers Obliterate Agencies for SMEs in 2026 - Wake Up]]></title>
+       <description><![CDATA[Small/midsize businesses are getting robbed by agencies charging 3-4x more for the same work. Freelancers deliver 90-110% quality for 30-60% of the price with faster delivery.]]></description>
+       <link>https://felixkrusch.com/blog/freelancers-obliterate-agencies-for-smes-in-2026-wake-up</link>
+       <guid>https://felixkrusch.com/blog/freelancers-obliterate-agencies-for-smes-in-2026-wake-up</guid>
+       <pubDate>Wed, 18 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Noise drowns signal, people tune out]]></title>
+       <description><![CDATA[If the platform's filtering cannot surface scarce human signal effectively, noise drowns signal and people tune out. But when filtering works well, genuine personal content becomes disproportionately valuable.]]></description>
+       <link>https://felixkrusch.com/blog/noise-drowns-signal-people-tune-out</link>
+       <guid>https://felixkrusch.com/blog/noise-drowns-signal-people-tune-out</guid>
+       <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[You don't need a CMS anymore]]></title>
+       <description><![CDATA[Not for blogs, not for small e-commerce, not for company sites. Security concerns, page builder drag, wasted time. Write in one language, polish automatically, translate . Serve clean and fast.]]></description>
+       <link>https://felixkrusch.com/blog/you-dont-need-a-cms-anymore</link>
+       <guid>https://felixkrusch.com/blog/you-dont-need-a-cms-anymore</guid>
+       <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
   </channel>
 </rss>

@@ -6,57 +6,64 @@
     <link>https://felixkrusch.com/de/blog</link>
     <atom:link href="https://felixkrusch.com/de-rss.xml" rel="self" type="application/rss+xml"/>
     <language>de-de</language>
-    <lastBuildDate>Sun, 05 Apr 2026 00:47:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 09:16:31 GMT</lastBuildDate>
     <generator>Next.js</generator>
-    
-    <item>
-      <title><![CDATA[2026: Ich habe RichWP eingestellt. Dann habe ich das CMS gebaut, das ich immer wollte.]]></title>
-      <description><![CDATA[2026: Ich habe RichWP — ein WordPress-Theme-Business, das ich seit 2010 aufgebaut hatte — endgültig eingestellt.]]></description>
-      <link>https://felixkrusch.com/de/blog/ich-habe-richwp-eingestellt-dann-habe-ich-das-cms-gebaut-das-ich-immer-wollte</link>
-      <guid>https://felixkrusch.com/de/blog/ich-habe-richwp-eingestellt-dann-habe-ich-das-cms-gebaut-das-ich-immer-wollte</guid>
-      <pubDate>Mon, 16 Mar 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Agenten sind das neue CMS]]></title>
-      <description><![CDATA[2026: Deine Website sollte nicht jedes Mal kämpfen, wenn du sie aktualisieren willst. KI-Agenten, die als deine komplette Website-Abteilung arbeiten.]]></description>
-      <link>https://felixkrusch.com/de/blog/agenten-sind-das-neue-cms</link>
-      <guid>https://felixkrusch.com/de/blog/agenten-sind-das-neue-cms</guid>
-      <pubDate>Sat, 07 Mar 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[WordPress FSE - aufwendig und unflexibel]]></title>
-      <description><![CDATA[WordPress FSE ist das Paradebeispiel dafür, dass mehr Aufwand immer weniger bringt. Das Verhältnis von Komplexität zu Flexibilität ergibt keinen Sinn, wenn moderne Stacks einfach funktionieren.]]></description>
-      <link>https://felixkrusch.com/de/blog/wordpress-fse-aufwendig-und-unflexibel</link>
-      <guid>https://felixkrusch.com/de/blog/wordpress-fse-aufwendig-und-unflexibel</guid>
-      <pubDate>Sat, 28 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Warum 85 % der Reinigungsfirmen- & Hausmeister-Websites 2026 Kunden vergraulen]]></title>
-      <description><![CDATA[Die harte Wahrheit: Langsame Ladezeiten, unklare Preise, fehlende Formulare, fake Bilder, keine Reviews, mobile Probleme. Ein simpler One-Pager fixxt 80 % und bringt mehr Anfragen. Keine Agentur nötig.]]></description>
-      <link>https://felixkrusch.com/de/blog/warum-85-prozent-der-reinigungsfirmen-und-hausmeister-websites-2026-kunden-vergraulen</link>
-      <guid>https://felixkrusch.com/de/blog/warum-85-prozent-der-reinigungsfirmen-und-hausmeister-websites-2026-kunden-vergraulen</guid>
-      <pubDate>Fri, 20 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Freelancer zerlegen Agenturen für KMU 2026 – Wach auf!]]></title>
-      <description><![CDATA[Kleine und mittlere Firmen lassen sich von Agenturen richtig abzocken. Freelancer liefern 90-110% Qualität für 30-60% des Preises mit schnellerer Lieferung.]]></description>
-      <link>https://felixkrusch.com/de/blog/freelancer-zerlegen-agenturen-fuer-kmu-2026-wach-auf</link>
-      <guid>https://felixkrusch.com/de/blog/freelancer-zerlegen-agenturen-fuer-kmu-2026-wach-auf</guid>
-      <pubDate>Wed, 18 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Lärm killt das Signal, der Mensch schaltet ab]]></title>
-      <description><![CDATA[Wenn der Filter einer Plattform das menschliche Signal nicht effektiv an die Oberfläche bringt, ertränkt der Lärm das Signal und der Mensch schaltet ab. Aber wenn der Filter gut funktioniert, wird authentischer persönlicher Inhalt unverhältnismäßig wertvoll.]]></description>
-      <link>https://felixkrusch.com/de/blog/laerm-killt-das-signal-menschen-schalten-ab</link>
-      <guid>https://felixkrusch.com/de/blog/laerm-killt-das-signal-menschen-schalten-ab</guid>
-      <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Du brauchst kein CMS mehr]]></title>
-      <description><![CDATA[Nicht für Blogs, nicht für kleinen E-Commerce, nicht für Unternehmensseiten. Sicherheitsbedenken, Page-Builder-Schlepperei, verschwendete Zeit. Schreibe in einer Sprache, poliere, übersetze automatisch. Serviere sauber.]]></description>
-      <link>https://felixkrusch.com/de/blog/du-brauchst-kein-cms-mehr</link>
-      <guid>https://felixkrusch.com/de/blog/du-brauchst-kein-cms-mehr</guid>
-      <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
-    </item>
+     
+     <item>
+       <title><![CDATA[Agilität und Richtungswechsel]]></title>
+       <description><![CDATA[Ich habe nie geplant, mich zu spezialisieren. Ich bin einfach richtig gut in einer Sache geworden, weil das mein Lebensunterhalt war. Mit der Zeit wurde das meine Tiefenstärke.]]></description>
+       <link>https://felixkrusch.com/de/blog/agilität-und-richtungswechsel</link>
+       <guid>https://felixkrusch.com/de/blog/agilität-und-richtungswechsel</guid>
+       <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[2026: Ich habe RichWP eingestellt. Dann habe ich das CMS gebaut, das ich immer wollte.]]></title>
+       <description><![CDATA[2026: Ich habe RichWP — ein WordPress-Theme-Business, das ich seit 2010 aufgebaut hatte — endgültig eingestellt.]]></description>
+       <link>https://felixkrusch.com/de/blog/ich-habe-richwp-eingestellt-dann-habe-ich-das-cms-gebaut-das-ich-immer-wollte</link>
+       <guid>https://felixkrusch.com/de/blog/ich-habe-richwp-eingestellt-dann-habe-ich-das-cms-gebaut-das-ich-immer-wollte</guid>
+       <pubDate>Mon, 16 Mar 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Agenten sind das neue CMS]]></title>
+       <description><![CDATA[2026: Deine Website sollte nicht jedes Mal kämpfen, wenn du sie aktualisieren willst. KI-Agenten, die als deine komplette Website-Abteilung arbeiten.]]></description>
+       <link>https://felixkrusch.com/de/blog/agenten-sind-das-neue-cms</link>
+       <guid>https://felixkrusch.com/de/blog/agenten-sind-das-neue-cms</guid>
+       <pubDate>Sat, 07 Mar 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[WordPress FSE - aufwendig und unflexibel]]></title>
+       <description><![CDATA[WordPress FSE ist das Paradebeispiel dafür, dass mehr Aufwand immer weniger bringt. Das Verhältnis von Komplexität zu Flexibilität ergibt keinen Sinn, wenn moderne Stacks einfach funktionieren.]]></description>
+       <link>https://felixkrusch.com/de/blog/wordpress-fse-aufwendig-und-unflexibel</link>
+       <guid>https://felixkrusch.com/de/blog/wordpress-fse-aufwendig-und-unflexibel</guid>
+       <pubDate>Sat, 28 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Warum 85 % der Reinigungsfirmen- & Hausmeister-Websites 2026 Kunden vergraulen]]></title>
+       <description><![CDATA[Die harte Wahrheit: Langsame Ladezeiten, unklare Preise, fehlende Formulare, fake Bilder, keine Reviews, mobile Probleme. Ein simpler One-Pager fixxt 80 % und bringt mehr Anfragen. Keine Agentur nötig.]]></description>
+       <link>https://felixkrusch.com/de/blog/warum-85-prozent-der-reinigungsfirmen-und-hausmeister-websites-2026-kunden-vergraulen</link>
+       <guid>https://felixkrusch.com/de/blog/warum-85-prozent-der-reinigungsfirmen-und-hausmeister-websites-2026-kunden-vergraulen</guid>
+       <pubDate>Fri, 20 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Freelancer zerlegen Agenturen für KMU 2026 – Wach auf!]]></title>
+       <description><![CDATA[Kleine und mittlere Firmen lassen sich von Agenturen richtig abzocken. Freelancer liefern 90-110% Qualität für 30-60% des Preises mit schnellerer Lieferung.]]></description>
+       <link>https://felixkrusch.com/de/blog/freelancer-zerlegen-agenturen-fuer-kmu-2026-wach-auf</link>
+       <guid>https://felixkrusch.com/de/blog/freelancer-zerlegen-agenturen-fuer-kmu-2026-wach-auf</guid>
+       <pubDate>Wed, 18 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Lärm killt das Signal, der Mensch schaltet ab]]></title>
+       <description><![CDATA[Wenn der Filter einer Plattform das menschliche Signal nicht effektiv an die Oberfläche bringt, ertränkt der Lärm das Signal und der Mensch schaltet ab. Aber wenn der Filter gut funktioniert, wird authentischer persönlicher Inhalt unverhältnismäßig wertvoll.]]></description>
+       <link>https://felixkrusch.com/de/blog/laerm-killt-das-signal-menschen-schalten-ab</link>
+       <guid>https://felixkrusch.com/de/blog/laerm-killt-das-signal-menschen-schalten-ab</guid>
+       <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
+     <item>
+       <title><![CDATA[Du brauchst kein CMS mehr]]></title>
+       <description><![CDATA[Nicht für Blogs, nicht für kleinen E-Commerce, nicht für Unternehmensseiten. Sicherheitsbedenken, Page-Builder-Schlepperei, verschwendete Zeit. Schreibe in einer Sprache, poliere, übersetze automatisch. Serviere sauber.]]></description>
+       <link>https://felixkrusch.com/de/blog/du-brauchst-kein-cms-mehr</link>
+       <guid>https://felixkrusch.com/de/blog/du-brauchst-kein-cms-mehr</guid>
+       <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
+     </item>
   </channel>
 </rss>
