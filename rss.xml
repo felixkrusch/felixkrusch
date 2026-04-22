@@ -6,9 +6,16 @@
     <link>https://felixkrusch.com/blog</link>
     <atom:link href="https://felixkrusch.com/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 17:39:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 21:49:37 GMT</lastBuildDate>
     <generator>Next.js</generator>
      
+     <item>
+       <title><![CDATA[Should I Hire a Web Designer or Use a DIY Website Builder?]]></title>
+       <description><![CDATA[DIY website builders look cheap, until you count the real cost in time, lost leads and brand damage. Honest comparison from a web designer with 28 years of experience and 300+ projects.]]></description>
+       <link>https://felixkrusch.com/blog/hire-web-designer-or-diy-website-builder</link>
+       <guid>https://felixkrusch.com/blog/hire-web-designer-or-diy-website-builder</guid>
+       <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
+     </item>
      <item>
        <title><![CDATA[Agility and Pivots]]></title>
        <description><![CDATA[I never planned to specialize. I just got really good at one thing because that was how I lived. Over time it became my sharp spike.]]></description>

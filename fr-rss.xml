@@ -6,9 +6,16 @@
     <link>https://felixkrusch.com/fr/blog</link>
     <atom:link href="https://felixkrusch.com/fr-rss.xml" rel="self" type="application/rss+xml"/>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 22 Apr 2026 17:39:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 21:49:37 GMT</lastBuildDate>
     <generator>Next.js</generator>
      
+     <item>
+       <title><![CDATA[Faut-il embaucher un webdesigner ou utiliser un constructeur de sites DIY ? Les vrais chiffres que la plupart des entrepreneurs ignorent]]></title>
+       <description><![CDATA[Les constructeurs de sites DIY semblent bon marché, jusqu'à ce qu'on compte les vrais coûts en temps, leads perdus et dommage à l'image. Comparaison honnête d'un webdesigner avec 28 ans d'expérience et 300+ projets.]]></description>
+       <link>https://felixkrusch.com/fr/blog/embaucher-webdesigner-ou-diy</link>
+       <guid>https://felixkrusch.com/fr/blog/embaucher-webdesigner-ou-diy</guid>
+       <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
+     </item>
      <item>
        <title><![CDATA[Agilité et Pivots]]></title>
        <description><![CDATA[Je n’ai jamais prévu de me spécialiser. J’ai simplement excellé dans un domaine parce que c’était ainsi que je gagnais ma vie. Avec le temps, cela est devenu ma force principale.]]></description>

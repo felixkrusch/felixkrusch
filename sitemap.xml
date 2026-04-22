@@ -79,6 +79,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://felixkrusch.com/blog/hire-web-designer-or-diy-website-builder</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://felixkrusch.com/blog/agility-and-pivots</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -133,6 +139,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://felixkrusch.com/de/blog/webdesigner-oder-diy-builder</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://felixkrusch.com/de/blog/agilitaet-und-richtungswechsel</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -185,6 +197,12 @@
     <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/fr/blog/embaucher-webdesigner-ou-diy</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://felixkrusch.com/fr/blog/agilite-et-pivots</loc>

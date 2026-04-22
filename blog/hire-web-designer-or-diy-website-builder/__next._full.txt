@@ -1,0 +1,243 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"MetadataBoundary"]
+c:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"default"]
+:HL["/_next/static/chunks/8a80e7184ad3a13f.css","style"]
+:HL["/_next/static/chunks/6485b19f153b4275.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"KRbLPv9G53Rcvsjfrv8gI","c":["","blog","hire-web-designer-or-diy-website-builder",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","hire-web-designer-or-diy-website-builder","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/8a80e7184ad3a13f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/6485b19f153b4275.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"font-sans antialiased min-h-screen flex flex-col","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/bea932c054b7bd5d.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/db2ab26607134b8d.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$@9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$@b"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:I[13474,["/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/db2ab26607134b8d.js"],"Navigation"]
+e:I[22016,["/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/db2ab26607134b8d.js"],""]
+13:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"IconMark"]
+f:T2fa3,<p>I had a guy on the phone this morning, cold call. Solid business, been around for years. He's thinking about a new website and says straight up: "Felix, I think I can handle it in-house. My team can slap something together with WordPress or one of those AI builders. Save the $3000 - $5000, right?"</p>
+
+<p>I didn't push. I just laid out the numbers the same way I'm going to lay them out for you here.</p>
+
+<p>Because I hear this exact conversation at least once a week. And every single time the DIY route looks cheaper on paper, until you run the real numbers on leads, conversions, time, and lost revenue.</p>
+
+<p>I've been doing this since 1998. 300+ projects. Seen every DIY builder come and go. Built custom sites that actually bring in clients. So when I tell you the honest truth, it's not sales talk. It's experience talking.</p>
+<p>Let's cut through the noise.</p>
+
+<h2>The Quick Comparison</h2>
+
+<p>Here's the quick comparison:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Factor</th>
+      <th>DIY Website Builder (WordPress, commercial AI builders, etc.)</th>
+      <th>Hire a Professional Web Designer (like me)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Upfront cost</td>
+      <td>0-450 euro + 15-40 euro/month</td>
+      <td>2500-5000 euro one-time (fixed price)</td>
+    </tr>
+    <tr>
+      <td>Your time investment</td>
+      <td>20-60+ hours (learning + building + fixing)</td>
+      <td>3-5 hours max (content + feedback)</td>
+    </tr>
+    <tr>
+      <td>Launch time</td>
+      <td>2-4 weeks while you learn the hard way</td>
+      <td>1-3 weeks (I do the heavy lifting)</td>
+    </tr>
+    <tr>
+      <td>Design & branding</td>
+      <td>Template or AI-generated, looks like everyone else</td>
+      <td>Custom, strategic, on-brand</td>
+    </tr>
+    <tr>
+      <td>Mobile experience</td>
+      <td>Often clunky</td>
+      <td>Pixel-perfect, 100% optimized</td>
+    </tr>
+    <tr>
+      <td>Page speed (Core Web Vitals)</td>
+      <td>Usually 55-80</td>
+      <td>95-100</td>
+    </tr>
+    <tr>
+      <td>SEO & Google performance</td>
+      <td>Basic tools only</td>
+      <td>Technical SEO built to win</td>
+    </tr>
+    <tr>
+      <td>Lead generation</td>
+      <td>Generic forms, no strategy</td>
+      <td>Purpose-built to turn visitors into calls</td>
+    </tr>
+    <tr>
+      <td>Maintenance & updates</td>
+      <td>You're on your own forever</td>
+      <td>Optional managed support</td>
+    </tr>
+    <tr>
+      <td>Scalability</td>
+      <td>Hits a wall fast</td>
+      <td>Future-proof</td>
+    </tr>
+    <tr>
+      <td>Real ROI timeline</td>
+      <td>6-18 months (if ever)</td>
+      <td>Usually 2-6 months</td>
+    </tr>
+  </tbody>
+</table>
+<h2>The Money Equation That Changed the Game This Morning</h2>
+
+<p>The guy on the phone today sells a service where one good client is worth 4000-8000 euro profit. Easy math.</p>
+
+<p>I told him: "Look, if my site brings you just one extra customer in the first 4-5 months, you already made your money back 2-3x. If it brings two, you quadrupled the investment. My accountant has seen numbers like this, sometimes even better, for many of my clients once the site is live."</p>
+
+<p>He went quiet for a second. Then he said, "Yeah… that makes sense."</p>
+
+<p>That's the conversation I have with almost every company owner or service provider who hesitates at the price.</p>
+
+<p>I had another lead last week, construction guy doing 10-25k profit jobs. He didn't want to spend the 2500-3000 euro. I told him exactly the same thing: "If the new site converts just one single extra customer, you already quadrupled the investment. Most of my clients get way more than one."</p>
+
+<p>He's still thinking. But the math doesn't lie.</p>
+<h2>What DIY Builders Actually Cost You (The Hidden Stuff)</h2>
+
+<p>Everyone loves to talk about the cheap monthly fee. Let's talk about what they don't advertise.</p>
+
+<p><strong>Your time</strong><br />
+Your hourly rate as a business owner is probably 80-200 euro+. Spending 30-50 hours building and tweaking a DIY site costs you 2400-10000 euro in lost opportunity. That's money you could have spent selling, delivering, or resting.</p>
+
+<p><strong>Lost leads from bad performance</strong><br />
+Google's AI Overviews and the new search results punish slow, generic sites hard. If your site loads in more than 3 seconds, you're invisible in local searches for a lot of queries. I've seen DIY sites getting 800 visitors per month and only 3-4 leads. My custom sites with the same traffic get 25-40 qualified leads.</p>
+
+<p><strong>Brand damage</strong><br />
+Customers decide in 4-6 seconds. A generic template site screams "small and unprofessional." My clients in competitive niches tell me the new site alone made them look like the biggest player in town.</p>
+
+<p><strong>Future migration pain</strong><br />
+The people that start on DIY eventually outgrow it and pay me to rebuild everything from scratch. That's double the cost and double the headache.</p>
+
+<p><strong>Opportunity cost of slow growth</strong><br />
+While you're fiddling with drag-and-drop, your competitor who hired a pro is already ranking higher and stealing your customers.</p>
+
+<h2>Real Client Stories</h2>
+
+<p><strong>Case Study 1 – The online seed shop</strong><br />
+I built the first site for a guy selling tree seeds, palm tree seeds, vegetable seeds, and yes, sequoia seeds. The first online order without any paid ads behind it came in around 6-8 weeks after launch. Organic traffic built up steadily. While a lot of varieties were ranking well, we noticed that sequoia seeds brought in the highest volume of orders. So we decided to create three more sites targeting sequoia seeds specifically. In the end we owned Google position 1-3 and 5 for our four sites. It's an older case study, but you know what? Results like that become repeatable, and that only comes from experience.</p>
+
+<p><strong>Case Study 2 – The kitchen studio</strong><br />
+I built a website for a kitchen studio selling mid- to high-price kitchens, including the full service of building them into their clients' houses. This customer didn't even shrug at the 3000 euro price tag. He knew he would make it back multiple times with just one extra sale through a client that came in through the website. Smart guy. He saw the value immediately.</p>
+
+<p><strong>Case Study 3 – The long-term clients</strong><br />
+I have clients for years. I've been building websites for 28 years now, and I actually have customers who got multiple sites for the same business over all those years. I appreciate the loyalty, but it also shows that good work pays off. These clients are still in business. Some of them I became friends with: a hairdresser, a fashion expert from Montreal, and an accountant from Montreal come to mind.</p>
+
+<p>These are smart people. Sure, they could have figured it out themselves. But I already know the shortcuts, the pitfalls, and the exact things that make a site convert. They know their stuff inside out. It makes no sense to go DIY if your billable hour is worth the same or more than mine.</p>
+<h2>When DIY Actually Makes Sense (I'm Honest About This)</h2>
+
+<p>Not every business needs a custom site right now. Here's the truth:</p>
+
+<ul>
+  <li>You're testing a brand-new idea with almost zero budget</li>
+  <li>You need a simple 1-3 page brochure site for a side hustle</li>
+  <li>You genuinely enjoy building things and have the time</li>
+  <li>Your business makes under 50k-80k per year and the website isn't your main lead source</li>
+  <li>When AI becomes good enough to fully replace me. Honestly, I'd rather spend my day doing woodworking or gardening than something that can be completely automated with AI.</li>
+</ul>
+
+<p>In those cases, go for it. Use WordPress or whatever new commercial AI builder is hot this month. Get something live fast.</p>
+
+<p>But by the moment you want to grow and expand, the DIY route becomes expensive.</p>
+
+<h2>When You Should Hire a Professional</h2>
+
+<p>If any of these sound like you, the math almost always favors hiring someone like me:</p>
+
+<ul>
+  <li>Your website is a real lead or sales driver</li>
+  <li>You're in a competitive local market</li>
+  <li>You sell 4k+ profit products or services</li>
+  <li>You value your time at more than 80 euro per hour</li>
+  <li>You want to look like the most professional option in your niche</li>
+</ul>
+
+<p>The sites I build are fast (95-100 Core Web Vitals), clean, conversion-focused, and built to win in the age of AI search. No bloat. No fighting with page builders. Just results.</p>
+<h2>The Technical Reality Nobody Talks About</h2>
+
+<p>Google's AI Overviews are everywhere now. They summarize answers and often don't send clicks. The only sites that still get traffic and citations are the ones that are lightning fast, technically perfect, full of real experience and proof, and built for real user intent.</p>
+
+<p>DIY builders are getting better, but they still fight the platform limitations. Custom built sites (what I do) win every time on speed, flexibility, and future-proofing.</p>
+
+<p>I don't use WordPress anymore for most projects. I build on modern stacks that just work. No security nightmares. No update hell. No bloat.</p>
+
+<h2>My Honest Recommendation</h2>
+
+<p>If your business is making decent money and your website is supposed to bring in clients, hire a professional.</p>
+
+<p>The 2500-5000 euro investment is almost always the cheapest marketing you'll ever do.</p>
+
+<p>If you're super early stage and cash is extremely tight, start with DIY, but set a reminder for 6-9 months from now to upgrade. Don't get stuck in the "good enough" trap.</p>
+
+<p>Sure, go do it DIY… if your time isn't worth more than mine. But most of the smart business owners I work with already know better.</p>
+
+<h2>What Working With Me Actually Looks Like</h2>
+
+<p>No agency theater. No 47-page proposals. No Figma wireframes that never get built.</p>
+
+<p>My process is stupidly simple:</p>
+
+<ul>
+  <li>Discovery call (15-30 minutes)</li>
+  <li>I build the homepage first, in real code, so you see real progress fast</li>
+  <li>Unlimited revisions until you love it</li>
+  <li>Launch</li>
+  <li>Optional ongoing support if you want</li>
+</ul>
+
+<p>Fixed price. Transparent. Results-focused.</p>
+<h2>FAQ – The Questions I Get Every Week</h2>
+
+<h3>How much does a professional website really cost?</h3>
+<p>For most small-to-medium businesses I work with: 2500-5000 euro for a high-converting, fast, custom site. Bigger or more complex projects go higher, but never hidden fees.</p>
+
+<h3>Can I update the site myself later?</h3>
+<p>Yes. I build it so you (or your team) can easily update content without touching code. Or I can handle maintenance for you.</p>
+
+<h3>What about all the new AI website builders?</h3>
+<p>They're getting better at generating pretty templates. They're still terrible at strategy, conversions, technical performance, and long-term results. Speed and SEO still suffer.</p>
+
+<h3>Is it worth it if I already have a site?</h3>
+<p>Almost always. 9 out of 10 times I can make your existing traffic convert 2-4x better.</p>
+
+<h3>How fast will I see results?</h3>
+<p>Most clients see increased leads within 4-8 weeks of launch. Google loves fast, clean, modern sites.</p>
+<h2>Still Not Sure?</h2>
+
+<p>That's normal. Most people aren't sure until they see the difference.</p>
+
+<p>Here's what I offer every serious business owner reading this:</p>
+
+<p>Book a free 20-minute website audit with me. No sales pitch. I'll look at your current site (or your ideas) and tell you honestly what's working, what's killing your leads, and whether DIY or professional makes more sense for your specific situation.</p>
+
+<p>You'll walk away with clarity and a few concrete next steps.</p>
+
+<p>Just send me an email at fk@felixkrusch.com or call/text +1 581 222 2515 (or WhatsApp +49 156 79778463 if you're in Europe).</p>
+
+<p>Tell me you read the "Hire or DIY" post and I'll make time for you.</p>
+
+<p>Because at the end of the day, your website is either quietly costing you money… or quietly making you money.</p>
+
+<p>Which one do you want it to be?</p>
+
+<p><strong>Let's talk.</strong></p>4:[["$","script",null,{"type":"application/ld+json","children":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Should I Hire a Web Designer or Use a DIY Website Builder?\",\"description\":\"DIY website builders look cheap, until you count the real cost in time, lost leads and brand damage. Honest comparison from a web designer with 28 years of experience and 300+ projects.\",\"url\":\"https://felixkrusch.com/blog/hire-web-designer-or-diy-website-builder\",\"datePublished\":\"2026-04-22T12:00:00Z\",\"dateModified\":\"2026-04-22T12:00:00Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"url\":\"https://felixkrusch.com\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://felixkrusch.com/felixkrusch-logo-2026.svg\"}}}"}],["$","$Ld",null,{"lang":"en"}],["$","main",null,{"className":"flex-grow","children":["$","article",null,{"className":"container mx-auto px-4 py-24","children":["$","div",null,{"className":"max-w-2xl mx-auto","children":[["$","$Le",null,{"href":"/blog","className":"text-primary hover:underline mb-12 inline-block","children":["← ","Back to Blog"]}],"$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-balance","children":"Should I Hire a Web Designer or Use a DIY Website Builder?"}],["$","div",null,{"className":"prose prose-lg max-w-none mb-8","dangerouslySetInnerHTML":{"__html":"$f"}}],"$L10"]}]}]}],"$L11","$L12"]
+b:[["$","title","0",{"children":"Should I Hire a Web Designer or Use a DIY Website Builder?"}],["$","meta","1",{"name":"description","content":"DIY website builders look cheap, until you count the real cost in time, lost leads and brand damage. Honest comparison from a web designer with 28 years of experience and 300+ projects."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://felixkrusch.com/blog/hire-web-designer-or-diy-website-builder/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://felixkrusch.com/blog/hire-web-designer-or-diy-website-builder/"}],["$","link","5",{"rel":"alternate","hrefLang":"x-default","href":"https://felixkrusch.com/blog/hire-web-designer-or-diy-website-builder/"}],["$","meta","6",{"property":"og:title","content":"Should I Hire a Web Designer or Use a DIY Website Builder?"}],["$","meta","7",{"property":"og:description","content":"DIY website builders look cheap, until you count the real cost in time, lost leads and brand damage. Honest comparison from a web designer with 28 years of experience and 300+ projects."}],["$","meta","8",{"property":"og:url","content":"https://felixkrusch.com/blog/hire-web-designer-or-diy-website-builder/"}],["$","meta","9",{"property":"og:image","content":"https://felixkrusch.com/images/Felix-Portrait-Sahara.webp"}],["$","meta","10",{"property":"og:image:alt","content":"Felix Krusch – Web Designer & Developer"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:type","content":"article"}],["$","meta","14",{"property":"article:published_time","content":"2026-04-22T12:00:00Z"}],["$","meta","15",{"property":"article:modified_time","content":"2026-04-22T12:00:00Z"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"Should I Hire a Web Designer or Use a DIY Website Builder?"}],["$","meta","18",{"name":"twitter:description","content":"DIY website builders look cheap, until you count the real cost in time, lost leads and brand damage. Honest comparison from a web designer with 28 years of experience and 300+ projects."}],["$","meta","19",{"name":"twitter:image","content":"https://felixkrusch.com/images/Felix-Portrait-Sahara.webp"}],["$","link","20",{"rel":"icon","href":"/icon.svg"}],["$","$L13","21",{}]]
+7:null
+14:I[76841,["/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/db2ab26607134b8d.js"],"Footer"]
+10:["$","div",null,{"className":"text-sm text-muted-foreground","children":["$","time",null,{"children":"April 22, 2026"}]}]
+11:["$","section",null,{"id":"contact","className":"py-24 md:py-32 px-6 md:px-12 lg:px-24 bg-foreground text-background","children":["$","div",null,{"className":"max-w-6xl","children":["$","div",null,{"className":"grid lg:grid-cols-2 gap-12 lg:gap-24","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm uppercase tracking-[0.3em] text-background/60 mb-4","children":"Contact"}],["$","h2",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6","children":["Ready to",["$","br",null,{}],["$","span",null,{"className":"text-accent","children":"get started?"}]]}],["$","p",null,{"className":"text-lg text-background/80 leading-relaxed","children":"Send me a short message - I'll get back to you within 24–48 hours with initial thoughts and, if it's a good fit, a rough timeline and quote."}]]}],["$","div",null,{"className":"flex justify-end items-end h-full","children":["$","div",null,{"className":"space-y-4 text-background/60","children":[["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Email",":"]}]," ",["$","a",null,{"href":"mailto:fk@felixkrusch.com","className":"text-background hover:text-accent transition-colors","children":"fk@felixkrusch.com"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Phone",":"]}]," ","+1 581 222 2515"]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["LinkedIn",":"]}]," ",["$","a",null,{"href":"https://linkedin.com/in/fkrusch/","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"linkedin.com/in/fkrusch/"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Facebook",":"]}]," ",["$","a",null,{"href":"https://facebook.com/kruschfelix/","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"facebook.com/kruschfelix/"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Location",":"]}]," ","Montreal, QC"]}]]}]}]]}]}]}]
+12:["$","$L14",null,{"lang":"en"}]

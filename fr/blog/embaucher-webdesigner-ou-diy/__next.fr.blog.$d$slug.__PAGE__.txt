@@ -1,0 +1,232 @@
+1:"$Sreact.fragment"
+2:I[13474,["/_next/static/chunks/f41919df8e06e5a1.js","/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/db2ab26607134b8d.js"],"Navigation"]
+3:I[22016,["/_next/static/chunks/f41919df8e06e5a1.js","/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/db2ab26607134b8d.js"],""]
+b:I[76841,["/_next/static/chunks/f41919df8e06e5a1.js","/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/db2ab26607134b8d.js"],"Footer"]
+c:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+4:T39a4,
+<p>J’ai eu un gars au téléphone ce matin. Entreprise solide, en activité depuis des années. Il pense à une nouvelle site web et me dit franchement : « Felix, je pense que je peux m’en occuper moi-même. Mon équipe peut bricoler quelque chose avec WordPress ou un de ces constructeurs AI. Économiser les 2 500-3 000 € (3 700-4 400 $ CAD), non ? »</p>
+
+<p>Je n’ai pas insisté. Je lui ai simplement présenté les chiffres, exactement comme je vais te les présenter ici.</p>
+
+<p>Parce que j’entends cette conversation au moins une fois par semaine. Et chaque fois, la solution DIY paraît moins chère sur papier… jusqu’à ce qu’on regarde les vrais chiffres sur les leads, les conversions, le temps et les revenus perdus.</p>
+
+<p>Je fais ce métier depuis 1998. Plus de 300 projets. J’ai vu tous les constructeurs DIY arriver et disparaître. J’ai construit des sites sur mesure qui apportent vraiment des clients. Quand je te dis la vérité honnête, ce n’est pas du baratin de vente. C’est l’expérience qui parle.</p>
+<p>Allons droit au but.</p>
+
+<h2>Le comparatif rapide</h2>
+
+<p>Voici le comparatif rapide :</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Facteur</th>
+      <th>Constructeur de sites DIY (WordPress, constructeurs AI commerciaux, etc.)</th>
+      <th>Webdesigner professionnel (comme moi)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Coût initial</td>
+      <td>0-450 € (0-670 $ CAD) + 15-40 €/mois</td>
+      <td>2 500-5 000 € (3 700-7 400 $ CAD) une fois (prix fixe)</td>
+    </tr>
+    <tr>
+      <td>Ton investissement en temps</td>
+      <td>20-60+ heures (apprentissage + construction + corrections)</td>
+      <td>Maximum 3-5 heures (contenu + feedback)</td>
+    </tr>
+    <tr>
+      <td>Délai de mise en ligne</td>
+      <td>2-4 semaines pendant que tu apprends à la dure</td>
+      <td>1-3 semaines (je fais le gros du travail)</td>
+    </tr>
+    <tr>
+      <td>Design & branding</td>
+      <td>Template ou généré par IA, ressemble à tout le monde</td>
+      <td>Personnalisé, stratégique, en accord avec ta marque</td>
+    </tr>
+    <tr>
+      <td>Expérience mobile</td>
+      <td>Souvent maladroit</td>
+      <td>Pixel-perfect, 100 % optimisé</td>
+    </tr>
+    <tr>
+      <td>Vitesse de chargement (Core Web Vitals)</td>
+      <td>Habituellement 55-80</td>
+      <td>95-100</td>
+    </tr>
+    <tr>
+      <td>SEO & performance Google</td>
+      <td>Outils de base seulement</td>
+      <td>SEO technique conçu pour gagner</td>
+    </tr>
+    <tr>
+      <td>Génération de leads</td>
+      <td>Formulaires génériques, sans stratégie</td>
+      <td>Conçu spécifiquement pour transformer les visiteurs en appels</td>
+    </tr>
+    <tr>
+      <td>Maintenance & mises à jour</td>
+      <td>Tu es seul pour toujours</td>
+      <td>Support géré en option</td>
+    </tr>
+    <tr>
+      <td>Scalabilité</td>
+      <td>Atteint vite ses limites</td>
+      <td>Prêt pour l’avenir</td>
+    </tr>
+    <tr>
+      <td>Délai réel de ROI</td>
+      <td>6-18 mois (si jamais)</td>
+      <td>Habituellement 2-6 mois</td>
+    </tr>
+  </tbody>
+</table>
+<h2>L’équation financière qui a tout changé ce matin</h2>
+
+<p>Le gars au téléphone aujourd’hui vend un service où un seul bon client rapporte 4 000-8 000 € (5 900-11 800 $ CAD) de profit. C’est du calcul simple.</p>
+
+<p>Je lui ai dit : « Regarde, si mon site t’apporte juste un client supplémentaire dans les 4-5 premiers mois, tu as déjà rentabilisé ton investissement 2-3 fois. S’il t’en apporte deux, tu as quadruplé la mise. Mon comptable a vu ces chiffres – parfois même meilleurs – chez beaucoup de mes clients une fois le site en ligne. »</p>
+
+<p>Il est resté silencieux une seconde. Puis il a dit : « Ouais… ça a du sens. »</p>
+
+<p>C’est exactement la conversation que j’ai avec presque tous les propriétaires d’entreprise ou prestataires de services qui hésitent sur le prix.</p>
+
+<p>La semaine dernière j’avais un autre lead – un entrepreneur en construction avec des jobs à 10-25 k de profit. Il ne voulait pas dépenser les 2 500-3 000 € (3 700-4 400 $ CAD). Je lui ai dit exactement la même chose : « Si le nouveau site convertit juste un client supplémentaire, tu as déjà quadruplé ton investissement. La plupart de mes clients en obtiennent bien plus d’un. »</p>
+
+<p>Il réfléchit encore. Mais les maths ne mentent pas.</p>
+<h2>Ce que les constructeurs DIY te coûtent vraiment (les frais cachés)</h2>
+
+<p>Tout le monde adore parler du petit prix mensuel. Parlons plutôt de ce qu’ils ne disent pas.</p>
+
+<p><strong>Ton temps</strong><br />
+Ton taux horaire en tant qu’entrepreneur est probablement de 80-200 € (118-295 $ CAD)+. Si tu passes 30-50 heures à construire et à peaufiner un site DIY, ça te coûte 2 400-10 000 € (3 550-14 800 $ CAD) en opportunités perdues. C’est de l’argent que tu aurais pu gagner en vendant, en livrant ou en te reposant.</p>
+
+<p><strong>Leads perdus à cause d’une mauvaise performance</strong><br />
+Les AI Overviews de Google et les nouveaux résultats de recherche pénalisent sévèrement les sites lents et génériques. Si ta page met plus de 3 secondes à charger, tu deviens pratiquement invisible sur beaucoup de recherches locales. J’ai vu des sites DIY avec 800 visiteurs par mois qui ne génèrent que 3-4 leads. Mes sites sur mesure obtiennent 25-40 leads qualifiés avec le même trafic.</p>
+
+<p><strong>Dommage à l’image de marque</strong><br />
+Les clients décident en 4-6 secondes. Un site template générique crie « petit et amateur ». Mes clients dans des niches concurrentielles me disent que le nouveau site seul les a fait passer pour le plus gros joueur de la ville.</p>
+
+<p><strong>Douleur de la migration future</strong><br />
+Beaucoup de ceux qui commencent en DIY finissent par dépasser le système et me paient plus tard pour tout reconstruire. Ça coûte le double et ça fait le double de casse-tête.</p>
+
+<p><strong>Coût d’une croissance lente</strong><br />
+Pendant que tu bidouilles avec du drag-and-drop, ton concurrent qui a engagé un pro est déjà mieux classé et te vole des clients.</p>
+<h2>Histoires de vrais clients</h2>
+
+<p><strong>Cas 1 – La boutique de semences en ligne</strong><br />
+J’ai construit le premier site pour un gars qui vend des semences d’arbres, de palmiers, de légumes et oui, aussi de séquoias. La première commande en ligne sans aucune pub payante est arrivée environ 6-8 semaines après le lancement. Le trafic organique s’est construit progressivement. Beaucoup de variétés se classaient bien, mais on a remarqué que les semences de séquoia apportaient le plus gros volume de commandes. On a donc créé trois autres sites ciblés uniquement sur les séquoias. Au final on possédait les positions Google 1-3 et 5 pour nos quatre sites. C’est un cas plus ancien, mais tu sais quoi ? Des résultats pareils deviennent reproductibles, et ça ne vient que de l’expérience.</p>
+
+<p><strong>Cas 2 – Le studio de cuisines</strong><br />
+J’ai construit un site pour un studio de cuisines qui vend des cuisines de moyenne à haute gamme, incluant le service complet d’installation chez le client. Ce client n’a même pas sourcillé devant les 3 000 € (4 400 $ CAD). Il savait qu’il allait récupérer son argent plusieurs fois avec un seul client supplémentaire venu via le site. Un gars intelligent. Il a vu la valeur immédiatement.</p>
+
+<p><strong>Cas 3 – Les clients de longue date</strong><br />
+J’ai des clients depuis des années. Je construis des sites web depuis 28 ans et j’ai effectivement des clients qui ont fait plusieurs sites pour la même entreprise au fil des ans. J’apprécie énormément cette loyauté, mais ça montre aussi que le bon travail paie. Ces clients sont toujours en affaires. Avec certains je suis même devenu ami : un coiffeur, une experte en mode de Montréal et un comptable de Montréal me viennent à l’esprit.</p>
+
+<p>Ce sont tous des gens intelligents. Bien sûr, ils auraient pu se débrouiller seuls. Mais je connais déjà les raccourcis, les pièges et exactement ce qui fait convertir un site aujourd’hui. Ils connaissent leur métier sur le bout des doigts. Ça n’a aucun sens de faire du DIY si ton heure facturable vaut autant ou plus que la mienne.</p>
+<h2>Quand un constructeur DIY a vraiment du sens (je suis honnête ici)</h2>
+
+<p>Tout le monde n’a pas besoin d’un site sur mesure tout de suite. Voici la vérité :</p>
+
+<ul>
+  <li>Tu testes une toute nouvelle idée avec presque zéro budget</li>
+  <li>Tu as besoin d’un simple site brochure de 1-3 pages pour un projet secondaire</li>
+  <li>Tu aimes vraiment bricoler toi-même et tu as le temps</li>
+  <li>Ton chiffre d’affaires est inférieur à 50k-80k € (74k-118k $ CAD) par an et le site n’est pas ta principale source de leads</li>
+  <li>Quand l’IA sera assez bonne pour me remplacer complètement. Honnêtement, je préfère passer mes journées à faire du travail du bois ou du jardinage plutôt que quelque chose qui peut être complètement automatisé avec l’IA.</li>
+</ul>
+
+<p>Dans ces cas-là, vas-y. Prends WordPress ou le nouvel outil commercial AI à la mode ce mois-ci. Mets quelque chose en ligne rapidement.</p>
+
+<p>Mais dès que tu veux grandir et te développer, la voie DIY devient chère.</p>
+<h2>Quand tu devrais embaucher un professionnel (la réalité)</h2>
+
+<p>Si l’un de ces points te ressemble, les maths penchent presque toujours pour quelqu’un comme moi :</p>
+
+<ul>
+  <li>Ton site web doit vraiment générer des leads ou des ventes</li>
+  <li>Tu es dans un marché local concurrentiel</li>
+  <li>Tu vends des produits ou services avec 4k+ de profit</li>
+  <li>Tu valorises ton temps à plus de 80 € (118 $ CAD) de l’heure</li>
+  <li>Tu veux apparaître comme l’option la plus professionnelle dans ta niche</li>
+</ul>
+
+<p>Les sites que je construis sont rapides (95-100 Core Web Vitals), propres, orientés conversion et conçus pour gagner à l’ère de la recherche par IA. Pas de superflu. Pas de lutte avec des constructeurs. Juste des résultats.</p>
+<h2>La réalité technique dont personne ne parle</h2>
+
+<p>Les AI Overviews de Google sont partout maintenant. Ils résument les réponses et n’envoient souvent plus de clics. Les seuls sites qui obtiennent encore du trafic et des citations sont ceux qui chargent à la vitesse de l’éclair, qui sont techniquement parfaits, qui contiennent une vraie expérience et des preuves, et qui sont construits pour les vraies intentions des utilisateurs.</p>
+
+<p>Les constructeurs DIY s’améliorent, mais ils butent toujours sur les limites de leurs plateformes. Les sites construits sur mesure (ce que je fais) gagnent à chaque fois sur la vitesse, la flexibilité et la pérennité.</p>
+
+<p>Je n’utilise plus WordPress pour la plupart des projets. Je construis sur des stacks modernes qui fonctionnent tout simplement. Aucun cauchemar de sécurité. Aucun enfer de mises à jour. Aucun ballast.</p>
+
+<h2>Ma recommandation honnête</h2>
+
+<p>Si ton entreprise gagne correctement sa vie et que ton site web est censé attirer des clients, embauche un professionnel.</p>
+
+<p>L’investissement de 2 500-5 000 € (3 700-7 400 $ CAD) est presque toujours la mesure marketing la moins chère que tu feras jamais.</p>
+
+<p>Si tu es encore tout au début et que l’argent est vraiment serré, commence par du DIY – mais programme un rappel dans 6-9 mois pour passer à la version pro. Ne reste pas coincé dans le piège du « ça suffit ».</p>
+
+<p>Bien sûr, fais-le toi-même… si ton temps ne vaut pas plus que le mien. Mais la plupart des entrepreneurs intelligents avec qui je travaille le savent déjà.</p>
+
+<h2>Comment se passe vraiment une collaboration avec moi</h2>
+
+<p>Pas de théâtre d’agence. Pas de propositions de 47 pages. Pas de wireframes Figma qui ne deviennent jamais réalité.</p>
+
+<p>Mon processus est ridiculement simple :</p>
+
+<ul>
+  <li>Appel de découverte (15-30 minutes)</li>
+  <li>Je construis d’abord la page d’accueil en vrai code, pour que tu voies immédiatement du progrès concret</li>
+  <li>Révisions illimitées jusqu’à ce que tu sois ravi</li>
+  <li>Mise en ligne</li>
+  <li>Support continu en option si tu le souhaites</li>
+</ul>
+
+<p>Prix fixe. Transparent. Orienté résultats.</p>
+<h2>FAQ – Les questions que j’entends chaque semaine</h2>
+
+<h3>Combien coûte vraiment un site web professionnel ?</h3>
+<p>Pour la plupart des petites et moyennes entreprises avec qui je travaille : 2 500-5 000 € (3 700-7 400 $ CAD) pour un site rapide, hautement convertissant et sur mesure. Les projets plus grands ou plus complexes coûtent plus cher, mais il n’y a jamais de frais cachés.</p>
+
+<h3>Puis-je mettre à jour le site moi-même plus tard ?</h3>
+<p>Oui. Je le construis pour que toi ou ton équipe puissiez modifier le contenu facilement sans toucher au code. Ou je peux m’occuper de la maintenance pour toi.</p>
+
+<h3>Que penser de tous les nouveaux constructeurs de sites par IA ?</h3>
+<p>Ils deviennent meilleurs pour générer de jolis templates. Ils restent encore mauvais en stratégie, en conversions, en performance technique et en résultats à long terme. La vitesse et le SEO en souffrent.</p>
+
+<h3>Est-ce que ça vaut la peine si j’ai déjà un site ?</h3>
+<p>Presque toujours. Dans 9 cas sur 10 je peux faire convertir ton trafic existant 2 à 4 fois mieux.</p>
+
+<h3>À quelle vitesse verrai-je des résultats ?</h3>
+<p>La plupart des clients voient plus de leads dans les 4-8 semaines suivant le lancement. Google adore les sites rapides, propres et modernes.</p>
+<h2>Tu hésites encore ?</h2>
+
+<p>C’est normal. La plupart des gens ne sont pas sûrs avant d’avoir vu la différence.</p>
+
+<p>Voici ce que j’offre à tout entrepreneur sérieux qui lit ceci :</p>
+
+<p>Réserve un audit gratuit de 20 minutes de ton site avec moi. Aucun discours de vente. Je regarde ton site actuel (ou ton idée) et je te dis honnêtement ce qui fonctionne, ce qui tue tes leads et si le DIY ou le professionnel est le bon choix pour ta situation précise.</p>
+
+<p>Tu repartiras avec de la clarté et quelques prochaines étapes concrètes.</p>
+
+<p>Envoie-moi simplement un courriel à fk@felixkrusch.com ou appelle / texte au +1 581 222 2515 (ou WhatsApp +49 156 79778463 si tu es en Europe).</p>
+
+<p>Dis-moi que tu as lu l’article « Hire or DIY » et je te trouverai du temps cette semaine.</p>
+
+<p>Parce qu’au final, ton site web te coûte de l’argent en silence… ou il t’en rapporte en silence.</p>
+
+<p>Lequel veux-tu que ce soit ?</p>
+
+<p><strong>Parlons-en.</strong></p>0:{"buildId":"KRbLPv9G53Rcvsjfrv8gI","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","children":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Faut-il embaucher un webdesigner ou utiliser un constructeur de sites DIY ? Les vrais chiffres que la plupart des entrepreneurs ignorent\",\"description\":\"Les constructeurs de sites DIY semblent bon marché, jusqu'à ce qu'on compte les vrais coûts en temps, leads perdus et dommage à l'image. Comparaison honnête d'un webdesigner avec 28 ans d'expérience et 300+ projets.\",\"url\":\"https://felixkrusch.com/fr/blog/embaucher-webdesigner-ou-diy\",\"datePublished\":\"2026-04-22T12:00:00Z\",\"dateModified\":\"2026-04-22T12:00:00Z\",\"inLanguage\":\"fr\",\"author\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"url\":\"https://felixkrusch.com\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://felixkrusch.com/felixkrusch-logo-2026.svg\"}}}"}],["$","main",null,{"className":"min-h-screen","children":[["$","$L2",null,{"lang":"fr"}],["$","article",null,{"className":"container mx-auto px-4 py-24","children":["$","div",null,{"className":"max-w-2xl mx-auto","children":[["$","$L3",null,{"href":"/fr/blog","className":"text-primary hover:underline mb-12 inline-block","children":["← ","Retour au Blog"]}],"$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-balance","children":"Faut-il embaucher un webdesigner ou utiliser un constructeur de sites DIY ? Les vrais chiffres que la plupart des entrepreneurs ignorent"}],["$","div",null,{"className":"prose prose-lg max-w-none mb-8","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}]]}],"$L6","$L7"],["$L8","$L9"],"$La"]}],"loading":null,"isPartial":false}
+5:["$","div",null,{"className":"text-sm text-muted-foreground","children":["$","time",null,{"children":"22 avril 2026"}]}]
+6:["$","section",null,{"id":"contact","className":"py-24 md:py-32 px-6 md:px-12 lg:px-24 bg-foreground text-background","children":["$","div",null,{"className":"max-w-6xl","children":["$","div",null,{"className":"grid lg:grid-cols-2 gap-12 lg:gap-24","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm uppercase tracking-[0.3em] text-background/60 mb-4","children":"Contact"}],["$","h2",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6","children":["Prêt à",["$","br",null,{}],["$","span",null,{"className":"text-accent","children":"commencer?"}]]}],["$","p",null,{"className":"text-lg text-background/80 leading-relaxed","children":"Envoyez-moi un court message – je vous répondrai dans les 24 à 48 heures avec mes premières réflexions et, si c'est une bonne correspondance, un calendrier approximatif et un devis."}]]}],["$","div",null,{"className":"flex justify-end items-end h-full","children":["$","div",null,{"className":"space-y-4 text-background/60","children":[["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Email",":"]}]," ",["$","a",null,{"href":"mailto:fk@felixkrusch.com","className":"text-background hover:text-accent transition-colors","children":"fk@felixkrusch.com"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Téléphone",":"]}]," ","+1 581 222 2515"]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["LinkedIn",":"]}]," ",["$","a",null,{"href":"https://linkedin.com/in/fkrusch/","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"linkedin.com/in/fkrusch/"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Facebook",":"]}]," ",["$","a",null,{"href":"https://facebook.com/kruschfelix/","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"facebook.com/kruschfelix/"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Location",":"]}]," ","Montréal, QC"]}]]}]}]]}]}]}]
+7:["$","$Lb",null,{"lang":"fr"}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/bea932c054b7bd5d.js","async":true}]
+9:["$","script","script-1",{"src":"/_next/static/chunks/db2ab26607134b8d.js","async":true}]
+a:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null
