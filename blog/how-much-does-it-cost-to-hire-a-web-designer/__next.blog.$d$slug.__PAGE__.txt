@@ -1,0 +1,206 @@
+1:"$Sreact.fragment"
+2:I[13474,["/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/db2ab26607134b8d.js"],"Navigation"]
+3:I[22016,["/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/db2ab26607134b8d.js"],""]
+b:I[76841,["/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/db2ab26607134b8d.js"],"Footer"]
+c:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+4:T4587,
+<p>I had a guy on the phone last week. Solid business. Been around for years. First thing he asked after hello was the question I get almost every single week.</p>
+
+<p>"Felix, how much does a proper website actually cost these days?"</p>
+
+<p>No small talk. Just the number.</p>
+
+<p>Fair enough. Let me give it to you straight, and then explain what actually drives the price, because that is the part most people get wrong.</p>
+
+
+<h2>What the Market Actually Looks Like Right Now</h2>
+
+<p>Web design quotes range from 300 EUR to 300000 EUR for the same type of project. That is not an exaggeration. The reason is that "web designer" covers an enormous range of people, processes, and technologies. Before you evaluate any quote, including mine, it helps to know what tier you are actually talking to.</p>
+
+<p><strong>Offshore freelancers, 500 to 1500 EUR.</strong> Platforms like Fiverr and Upwork have genuinely talented developers in countries where the cost of living makes their rates much lower than anything you will find locally. I have a high opinion of a lot of people in this tier. Check their portfolio, have a proper conversation, make sure the communication feels natural and the chemistry is right, and if it is, go for it. A good offshore developer who understands your project can deliver excellent work.</p>
+
+<p><strong>Generalist freelancers in Western markets, 1500 to 4000 EUR.</strong> Someone local who does a bit of everything. WordPress, Wix, Squarespace, whatever the client needs. Broad skills, average depth. Fine for a basic brochure site. Not ideal if performance, conversions, or SEO matter to your business.</p>
+
+<p><strong>Specialist freelancers like me, 2500 to 6000 EUR.</strong> Focused on a specific stack, a specific type of client, and specific outcomes. Faster delivery, higher technical quality, direct communication. You are paying for expertise and a process that has been refined over hundreds of projects.</p>
+
+<p><strong>Small agencies, 8000 to 25000 EUR.</strong> A team with a project manager, a designer, and a developer or two. More process, more meetings, more layers. Sometimes the result justifies the price. Often it does not, because the actual work still ends up with one person and the overhead is just baked into your invoice.</p>
+
+<p><strong>Large agencies and studios, 25000 EUR and up.</strong> Brand strategy, UX research, multiple rounds of concepting, large teams. This tier exists for enterprise clients and complex platforms. If you are a small or midsize business, you are not their target client and they will charge you enterprise prices anyway.</p>
+
+<p>Most small and midsize businesses I talk to belong in the specialist freelancer tier and end up getting quotes from small agencies. That gap is where a lot of money gets wasted.</p>
+
+
+<h2>The Short Answer</h2>
+
+<p>A good custom web design from me costs <strong>2500 EUR</strong> (approx. 3000 USD / 4000 CAD) right now in April 2026. Fixed price. Nothing hidden.</p>
+
+<p>That is the floor for a clean, fast, modern site built to actually bring customers. Not a template. Not a page builder. Real code, real performance, real results.</p>
+
+<p>Extra scope is quoted transparently after a discovery call:</p>
+
+<ul>
+  <li><strong>Additional language:</strong> 500 EUR flat per language</li>
+  <li><strong>E-commerce or large content bases:</strong> quoted separately based on scope</li>
+  <li><strong>Simple graphic work:</strong> 60 EUR per hour</li>
+  <li><strong>Programming and implementation</strong> (online reservations, custom integrations): 95 EUR per hour</li>
+  <li><strong>Maintenance, extra pages, content creation:</strong> hourly, no monthly retainers unless you want them</li>
+  <li><strong>Payment terms:</strong> 50 percent upfront, 50 percent on launch</li>
+</ul>
+
+<p>That is the full picture. No surprises.</p>
+
+
+<h2>What You Actually Get for 2500 EUR</h2>
+
+<p>You get a modern Jamstack site built with Next.js or Astro and Tailwind. Core Web Vitals consistently over 90. Lightning fast on every device. Google loves that speed in 2026 and rewards it in rankings. Visitors stay longer because nothing feels slow or broken.</p>
+
+<p>You get unlimited revisions until you are 100 percent happy. No extra invoices. Delivery in one to three weeks. You talk directly with me the whole time. No middlemen. No account managers adding cost for nothing.</p>
+
+<p>Most importantly, you get a site built to convert. Not something that looks nice while your phone stays quiet. A site where the design, the structure, and the messaging all work together to turn visitors into calls, bookings, or sales.</p>
+
+<p>SEO is built in from day one. If you want a full ongoing SEO strategy on top of that, we can talk about it separately.</p>
+
+
+<h2>Why Two Quotes for the Same Project Can Be Worlds Apart</h2>
+
+<p>You can ask three designers to quote the same brief and get back 1200 EUR, 4500 EUR, and 18000 EUR. All three are serious. None of them are lying. Here is what actually explains the gap.</p>
+
+<p><strong>Technology stack.</strong> A WordPress site with a premium theme takes less time to build but carries ongoing costs and performance ceilings. A custom Jamstack build takes more skill but loads faster, needs less maintenance, and does not hit a wall when you want to grow. The upfront price looks different but the long-term picture does not.</p>
+
+<p><strong>Strategy versus execution.</strong> Some designers just build what you hand them. Others ask hard questions about your customers, your competition, and what the site actually needs to do to make you money. The second type costs more upfront and tends to produce better results.</p>
+
+<p><strong>Revision policy.</strong> Hourly billing means every change costs money and clients hold back feedback to avoid invoices. Fixed pricing with unlimited revisions means you say exactly what you want until it is right. The process feels completely different and the outcomes usually are too.</p>
+
+<p><strong>Who actually does the work.</strong> At agencies you pay for a team but often one junior developer builds the site. With a specialist freelancer you know exactly who is building it and you talk to that person directly throughout.</p>
+
+<p><strong>Post-launch support.</strong> Some quotes include ongoing maintenance retainers whether you want them or not. Others, like mine, keep post-launch work purely hourly so you only pay for what you actually need.</p>
+
+
+<h2>Three Real Projects, Three Real Outcomes</h2>
+
+<h3>MH-Hydraulikservice.de, 2500 EUR, Under Three Weeks</h3>
+
+<p><a href="https://mh-hydraulikservice.de/" target="_blank"><img src="/images/mh-hydraulikservice.webp" alt="MH Hydraulikservice" /></a></p>
+
+<p>This client came in with an old WordPress site. The structure was already decent but the content was thin, the calls to action were weak, and the overall look felt dated.</p>
+
+<p>The owner was enthusiastic, hands-on, and delivered everything on time, including high-quality photography. That made the whole project smooth and the final result noticeably stronger.</p>
+
+<p>From first call to going live it took less than three weeks. The new site loads instantly, looks professional on every device, and the clear calls to action make it obvious what to do next. The provided photography shines on the fast-loading pages. His old site was leaking leads every week. People would land, look around, and leave. The new one works like a proper business tool around the clock.</p>
+
+<h3>Safetee-USA.com, E-Commerce From Scratch</h3>
+
+<p><a href="https://safetee-usa.com/" target="_blank"><img src="/images/safetee.webp" alt="Safetee USA" /></a></p>
+
+<p>This one started with almost nothing. Some product info, product images, and a logo. I built the whole concept from the ground up.</p>
+
+<p>It is a Next.js site with a custom Stripe integration and cart hosted on Cloudflare edge. Technically one of the cleaner builds I have done recently. Normal price for this scope is 3000 EUR (approx. 3500 USD / 4800 CAD). He got a small discount as a repeat client who already knows how I work.</p>
+
+<p>No drama. Just results.</p>
+
+<h3>nextmaker.de, One Page, Maximum Impact</h3>
+
+<p><a href="https://nextmaker.de/" target="_blank"><img src="/images/project-nextmaker.webp" alt="Nextmaker" /></a></p>
+
+<p>This was a personal brand launch for someone who knows good design. He had a clear vision and I tried to get as close to it as possible. It was a pleasure working with him, and another project is already in the pipeline.</p>
+
+<p>One page. 2500 EUR. He now looks like the expert he actually is.</p>
+
+<p>We kept it minimal and focused entirely on the message. Visitors immediately understand who he is and what he offers. No clutter. Just clear positioning that builds trust from the first second. He gets inquiries from the right kind of people now.</p>
+
+
+<h2>What Actually Drives the Price Up</h2>
+
+<p>Most businesses think they need everything. They usually do not.</p>
+
+<p>A solid site that ranks well, loads fast, and converts visitors needs far less than people assume. The base price stays where it is because I use modern tools that let me move fast. Here is what pushes scope, and therefore price, upward:</p>
+
+<p><strong>More pages</strong> take more time to structure properly so they do not overwhelm the visitor. <strong>Multiple languages</strong> each add real work. <strong>E-commerce</strong> means custom payment flows, cart logic, product pages, and edge hosting. <strong>Special integrations</strong> like booking systems or membership areas are quoted hourly after the discovery call.</p>
+
+<p>The key is that we decide all of this upfront in the discovery call. No scope creep. No surprises. Most small and midsize businesses need exactly what the 2500 EUR base delivers. The architecture I build on is also designed to expand in every direction, so nothing we add later is a workaround or a patch. It just grows. If your project grows during the discovery call we talk about it right then and I give you a fixed number before anything starts.</p>
+
+
+<h2>The Opportunity Cost Most Business Owners Miss</h2>
+
+<p>Just recently I had a lead on the phone. He wanted to push the project to next year. Said he had run through his marketing budget. He is not fully booked. Each job he lands is worth 10000 to 15000 EUR in profit to him.</p>
+
+<p>He decided to go the DIY route.</p>
+
+<p>Think about that. If a new site brings in just one extra project, the ROI is already off the charts before the year is even out. Most of my clients make their money back within the first few months. Some do it in weeks.</p>
+
+<p>Another recent lead was genuinely surprised at my 2500 EUR offer. He had received several quotes ranging into the lower five figures for comparable work. I live between Europe and North America. I fly back and forth multiple times a year. For a one-to-three week job I can run alongside one or two other clients, 2500 EUR is a good number that keeps me competitive and busy. I am a capitalist at heart. Charging 30000 to 40000 EUR for 7500 to 10000 EUR worth of actual work just is not how I want to operate. Maybe that is naive. I do not think it is.</p>
+
+
+<h2>Why Agencies Charge So Much More for the Same Result</h2>
+
+<p>Agencies charge 10000 EUR and up for the same pixels. I have seen the proposals. Three to four times what I charge. Same result. Slower delivery. Endless Zoom meetings. They add layers of people who never touch the code but still appear on your invoice.</p>
+
+<p>I have seen agency owners openly say they will not take projects under 15000 EUR because they need to cover their overhead. That is their problem, not yours. I have also watched agencies win projects, set up their process theater, then hand the actual work to a freelancer, and pocket the difference. Small and midsize businesses are getting robbed.</p>
+
+<p>One concern I hear often: "What if your developer disappears?" I do not disappear. But the scare tactic itself is worth calling out. Agencies love to imply that freelance work is some kind of black box nobody else can open. That is nonsense. A well-built site using established frameworks and open standards can be picked up by any competent developer in the same class. Next.js, Astro, Tailwind, these are not obscure tools. There are hundreds of thousands of developers who know them inside out. Nothing I deliver is locked, obfuscated, or proprietary. Any developer who knows the Jamstack can read the code, understand the structure, and continue from exactly where I left off. That is not a risk. That is how modern development is supposed to work.</p>
+
+
+<h2>How I Actually Deliver in One to Three Weeks</h2>
+
+<p><strong>Discovery call.</strong> Phone, FaceTime, or in-person if you are in Montreal or Herborn. You tell me what you need. I ask the sharp questions. Twenty minutes later we have exact scope, exact price, and a clear timeline. Same day. No back and forth later because we locked in the details early.</p>
+
+<p><strong>Homepage first, straight into code.</strong> I do not do wireframes. I open the editor and build the actual homepage in real code. You see live, pixel-perfect design within hours. Something tangible instead of waiting weeks for pretty mockups that never match the final result anyway.</p>
+
+<p><strong>Build and polish.</strong> I finish the full site using modern tools and AI-assisted workflows for speed. Mobile-first. Fast. Conversion-focused. Unlimited revisions throughout. We stay in close contact so you always know exactly where things stand.</p>
+
+<p><strong>Launch.</strong> I push it live. Domain, hosting, SSL. Done the same day. No long handover meetings. No waiting for someone else to approve the final push.</p>
+
+
+<h2>28 Years of Pricing Lessons</h2>
+
+<p>I built my first site in 1998 with Notepad and HTML. I ran RichWP, a WordPress theme business, for years before I shut it down because WordPress had become a liability, costing time and money to serve customers with, and the final results were never as polished as I wanted them to be.</p>
+
+<p>One thing I learned early: some clients will drain you regardless of the price. I once had a customer who sent over 160 support emails on a low-cost product. After number 160 I refunded her and let her move on. That taught me to be upfront about scope and stick to it. Fixed prices and clear terms protect both sides.</p>
+
+<p>My pricing is where it is because I want to build sites that make my clients money. The faster and cleaner I work, the more businesses I can actually help. That feels like the right trade.</p>
+
+
+<h2>The Real Cost Is Over Three Years, Not on Day One</h2>
+
+<p>Most people compare upfront quotes and stop there. That is the wrong number to compare.</p>
+
+<p>A WordPress site at 1500 EUR sounds cheap until you add up what comes after. Hosting with a decent provider runs 15 to 30 EUR per month. Premium plugins you actually need add another 200 to 500 EUR per year. Security updates, PHP version conflicts, and plugin breakages eat hours every few months, either yours or a developer's. After two or three years most WordPress sites need a serious overhaul because the template ecosystem has moved on and the site feels dated. The total cost of ownership over three years is often well above what a properly built custom site would have cost upfront.</p>
+
+<p>The sites I build run on Cloudflare's edge network. Hosting costs next to nothing. There are no plugins to update, no security patches to chase, no page builder to fight. If you want changes, you pay my hourly rate for the actual time it takes. Nothing more. The architecture is also designed to last. I am not rebuilding these sites in two years. Neither are my clients.</p>
+
+<p>When you compare a 2500 EUR custom site against a 1200 EUR WordPress build, you are not comparing the same thing over any meaningful timeframe.</p>
+
+
+<h2>Red Flags When Getting Quotes</h2>
+
+<p>After 28 years I have seen every variation of a bad proposal. A few things that should make you pause before signing anything.</p>
+
+<p><strong>Vague scope.</strong> If the quote does not specify exactly what pages, features, and deliverables are included, you will be negotiating every addition as a change order. Get it in writing before you start.</p>
+
+<p><strong>No fixed price.</strong> Hourly billing for a full website project puts all the risk on you. A designer who knows their craft should be able to quote a fixed number. If they cannot, that tells you something about how organised the project will be.</p>
+
+<p><strong>Proprietary systems.</strong> Some agencies build on platforms or custom CMS tools that only they can maintain. You become permanently dependent on them for every update. Ask directly: who owns the code and can any developer work on it after launch?</p>
+
+<p><strong>Wireframes but no real preview.</strong> Weeks of mockups and presentations before a single line of code gets written is a process designed to justify agency billing rates. It rarely produces better results. I show you real code on day one.</p>
+
+<p><strong>No direct access to the builder.</strong> If your main contact is an account manager who relays feedback to a developer you never speak to, expect things to get lost in translation and timelines to stretch.</p>
+
+
+<h2>Still Have Questions?</h2>
+
+<p>I will look at your current site or your idea, ask a few questions, and give you the exact price for your project in twenty minutes. No sales pitch. No pressure. Just straight talk.</p>
+
+<p>If there is real interest, I can build a free preview of your front page so you have something concrete to react to before you commit to anything.</p>
+
+<p>Phone is at the top of the page. Or hit the contact button.</p>
+
+<p><strong>Let's build something that makes you money.</strong></p>
+0:{"buildId":"BYtcEjh-YBCc8aF_Gzt-v","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","children":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"How Much Does It Cost to Hire a Web Designer?\",\"description\":\"Honest breakdown of web design costs: from 500 EUR offshore freelancers to 25000 EUR agencies. My pricing as a specialist freelancer, what you get, and why the market works this way.\",\"url\":\"https://felixkrusch.com/blog/how-much-does-it-cost-to-hire-a-web-designer\",\"datePublished\":\"2026-04-24T12:00:00Z\",\"dateModified\":\"2026-04-23T12:00:00Z\",\"author\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"url\":\"https://felixkrusch.com\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://felixkrusch.com/felixkrusch-logo-2026.svg\"}}}"}],["$","$L2",null,{"lang":"en"}],["$","main",null,{"className":"flex-grow","children":["$","article",null,{"className":"container mx-auto px-4 py-24","children":["$","div",null,{"className":"max-w-2xl mx-auto","children":[["$","$L3",null,{"href":"/blog","className":"text-primary hover:underline mb-12 inline-block","children":["← ","Back to Blog"]}],"$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-balance","children":"How Much Does It Cost to Hire a Web Designer?"}],["$","div",null,{"className":"prose prose-lg max-w-none mb-8","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}]}],"$L6","$L7"],["$L8","$L9"],"$La"]}],"loading":null,"isPartial":false}
+5:["$","div",null,{"className":"text-sm text-muted-foreground","children":["$","time",null,{"children":"April 24, 2026"}]}]
+6:["$","section",null,{"id":"contact","className":"py-24 md:py-32 px-6 md:px-12 lg:px-24 bg-foreground text-background","children":["$","div",null,{"className":"max-w-6xl","children":["$","div",null,{"className":"grid lg:grid-cols-2 gap-12 lg:gap-24","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm uppercase tracking-[0.3em] text-background/60 mb-4","children":"Contact"}],["$","h2",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6","children":["Ready to",["$","br",null,{}],["$","span",null,{"className":"text-accent","children":"get started?"}]]}],["$","p",null,{"className":"text-lg text-background/80 leading-relaxed","children":"Send me a short message - I'll get back to you within 24–48 hours with initial thoughts and, if it's a good fit, a rough timeline and quote."}]]}],["$","div",null,{"className":"flex justify-end items-end h-full","children":["$","div",null,{"className":"space-y-4 text-background/60","children":[["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Email",":"]}]," ",["$","a",null,{"href":"mailto:fk@felixkrusch.com","className":"text-background hover:text-accent transition-colors","children":"fk@felixkrusch.com"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Phone",":"]}]," ","+1 581 222 2515"]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["LinkedIn",":"]}]," ",["$","a",null,{"href":"https://linkedin.com/in/fkrusch/","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"linkedin.com/in/fkrusch/"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Facebook",":"]}]," ",["$","a",null,{"href":"https://facebook.com/kruschfelix/","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"facebook.com/kruschfelix/"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Location",":"]}]," ","Montreal, QC"]}]]}]}]]}]}]}]
+7:["$","$Lb",null,{"lang":"en"}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/bea932c054b7bd5d.js","async":true}]
+9:["$","script","script-1",{"src":"/_next/static/chunks/db2ab26607134b8d.js","async":true}]
+a:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

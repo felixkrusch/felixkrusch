@@ -1,0 +1,217 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"default"]
+4:I[92825,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"ClientSegmentRoot"]
+5:I[20892,["/_next/static/chunks/0e1195f209bb254d.js"],"default"]
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"ViewportBoundary"]
+d:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"MetadataBoundary"]
+f:I[68027,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"default"]
+:HL["/_next/static/chunks/8a80e7184ad3a13f.css","style"]
+:HL["/_next/static/chunks/6485b19f153b4275.css","style"]
+:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"BYtcEjh-YBCc8aF_Gzt-v","c":["","de","blog","was-kostet-ein-webdesigner",""],"q":"","i":false,"f":[[["",{"children":["de",{"children":["blog",{"children":[["slug","was-kostet-ein-webdesigner","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/8a80e7184ad3a13f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/6485b19f153b4275.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"font-sans antialiased min-h-screen flex flex-col","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0e1195f209bb254d.js","async":true,"nonce":"$undefined"}]],["$","$L4",null,{"Component":"$5","slots":{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@6"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L7",[["$","script","script-0",{"src":"/_next/static/chunks/bea932c054b7bd5d.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/db2ab26607134b8d.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$@c"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$@e"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[]],"S":true}
+6:"$0:f:0:1:1:children:0:props:children:1:props:serverProvidedParams:params"
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+10:I[13474,["/_next/static/chunks/0e1195f209bb254d.js","/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/db2ab26607134b8d.js"],"Navigation"]
+11:I[22016,["/_next/static/chunks/0e1195f209bb254d.js","/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/db2ab26607134b8d.js"],""]
+16:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"IconMark"]
+12:T5013,
+<p>Ich hatte letzte Woche jemanden am Telefon. Solides Unternehmen. Seit Jahren am Markt. Die erste Frage nach dem Hallo war dieselbe, die ich fast jede Woche höre.</p>
+
+<p>„Felix, was kostet heutzutage eigentlich eine vernünftige Website?"</p>
+
+<p>Kein Smalltalk. Einfach die Zahl.</p>
+
+<p>Gut so. Ich sage es direkt, und erkläre dann, was den Preis wirklich bestimmt, denn genau da liegen die meisten falsch.</p>
+
+
+<h2>Was der Markt gerade wirklich bedeutet</h2>
+
+<p>Webdesign-Angebote reichen für dasselbe Projekt von 300 EUR bis 300000 EUR. Das ist keine Übertreibung. Der Grund ist, dass „Webdesigner" eine enorme Bandbreite an Menschen, Prozessen und Technologien abdeckt. Bevor Sie ein Angebot bewerten, auch meins, hilft es zu wissen, mit welcher Kategorie Sie es wirklich zu tun haben.</p>
+
+<p><strong>Offshore-Freelancer, 500 bis 1500 EUR.</strong> Auf Plattformen wie Fiverr und Upwork gibt es wirklich talentierte Entwickler in Ländern, wo die Lebenshaltungskosten ihre Preise deutlich unter dem halten, was Sie lokal finden werden. Ich halte viele Menschen in dieser Kategorie für sehr gut. Schauen Sie sich ihr Portfolio an, führen Sie ein richtiges Gespräch, stellen Sie sicher, dass die Kommunikation natürlich ist und die Chemie stimmt, und wenn das so ist, machen Sie es. Ein guter Offshore-Entwickler, der Ihr Projekt versteht, kann ausgezeichnete Arbeit liefern.</p>
+
+<p><strong>Generalisten-Freelancer in westlichen Märkten, 1500 bis 4000 EUR.</strong> Jemand aus der Region, der ein bisschen von allem macht. WordPress, Wix, Squarespace, je nach Kundenwunsch. Breite Kenntnisse, durchschnittliche Tiefe. In Ordnung für eine einfache Broschüren-Website. Nicht ideal, wenn Performance, Conversions oder SEO für Ihr Unternehmen wichtig sind.</p>
+
+<p><strong>Spezialisierte Freelancer wie ich, 2500 bis 6000 EUR.</strong> Fokussiert auf einen bestimmten Stack, eine bestimmte Art von Kunden und konkrete Ergebnisse. Schnellere Lieferung, höhere technische Qualität, direkte Kommunikation. Sie zahlen für Expertise und einen Prozess, der über Hunderte von Projekten verfeinert wurde.</p>
+
+<p><strong>Kleine Agenturen, 8000 bis 25000 EUR.</strong> Ein Team mit einem Projektmanager, einem Designer und ein bis zwei Entwicklern. Mehr Prozess, mehr Meetings, mehr Ebenen. Manchmal rechtfertigt das Ergebnis den Preis. Oft nicht, weil die eigentliche Arbeit trotzdem bei einer Person landet und der Overhead einfach in Ihre Rechnung einkalkuliert ist.</p>
+
+<p><strong>Große Agenturen und Studios, ab 25000 EUR.</strong> Markenstrategie, UX-Forschung, mehrere Konzeptionsrunden, große Teams. Diese Kategorie existiert für Enterprise-Kunden und komplexe Plattformen. Wenn Sie ein kleines oder mittelständisches Unternehmen sind, sind Sie nicht ihr Zielkunde, aber sie werden Ihnen trotzdem Enterprise-Preise berechnen.</p>
+
+<p>Die meisten kleinen und mittelständischen Unternehmen, mit denen ich spreche, gehören in die Kategorie der spezialisierten Freelancer und erhalten am Ende Angebote von kleinen Agenturen. Genau in dieser Lücke geht viel Geld verloren.</p>
+
+
+<h2>Die kurze Antwort</h2>
+
+<p>Ein gutes individuelles Webdesign bei mir kostet aktuell im April 2026 <strong>2500 EUR</strong> (ca. 3000 USD / 4000 CAD). Festpreis. Nichts versteckt.</p>
+
+<p>Das ist die Untergrenze für eine saubere, schnelle, moderne Website, die wirklich Kunden bringt. Kein Template. Kein Page Builder. Echter Code, echte Performance, echte Ergebnisse.</p>
+
+<p>Zusätzlicher Umfang wird nach einem Discovery-Call transparent angeboten:</p>
+
+<ul>
+  <li><strong>Zusätzliche Sprache:</strong> 500 EUR pauschal pro Sprache</li>
+  <li><strong>E-Commerce oder große Inhaltsbasis:</strong> wird nach Umfang separat angeboten</li>
+  <li><strong>Einfache Grafikarbeiten:</strong> 60 EUR pro Stunde</li>
+  <li><strong>Programmierung und Implementierung</strong> (Online-Reservierungen, individuelle Integrationen): 95 EUR pro Stunde</li>
+  <li><strong>Wartung, zusätzliche Seiten, Content-Erstellung:</strong> stundenweise, keine monatlichen Retainer, außer gewünscht</li>
+  <li><strong>Zahlungsbedingungen:</strong> 50 % bei Start, 50 % bei Launch</li>
+</ul>
+
+<p>Das ist das vollständige Bild. Keine Überraschungen.</p>
+
+
+<h2>Was Sie wirklich für 2500 EUR bekommen</h2>
+
+<p>Sie bekommen eine moderne Jamstack-Website, gebaut mit Next.js oder Astro und Tailwind. Core Web Vitals konstant über 90. Blitzschnell auf jedem Gerät. Google liebt diese Geschwindigkeit und belohnt sie in den Rankings. Besucher bleiben länger, weil nichts langsam oder kaputt wirkt.</p>
+
+<p>Sie bekommen unbegrenzte Revisionen, bis Sie zu 100 Prozent zufrieden sind. Keine zusätzlichen Rechnungen. Lieferung in einer bis drei Wochen. Sie sprechen die ganze Zeit direkt mit mir. Keine Mittelsmänner. Keine Account-Manager, die Kosten verursachen, ohne etwas beizutragen.</p>
+
+<p>Am wichtigsten: Sie bekommen eine Website, die konvertiert. Nicht etwas, das gut aussieht, während Ihr Telefon schweigt. Eine Website, bei der Design, Struktur und Botschaft zusammenarbeiten, um Besucher in Anrufe, Buchungen oder Verkäufe zu verwandeln.</p>
+
+<p>SEO ist von Tag eins eingebaut. Wenn Sie zusätzlich eine vollständige SEO-Strategie möchten, können wir das separat besprechen.</p>
+
+
+<h2>Warum zwei Angebote für dasselbe Projekt Welten auseinanderliegen können</h2>
+
+<p>Sie können drei Designer dasselbe Briefing anbieten lassen und 1200 EUR, 4500 EUR und 18000 EUR zurückbekommen. Alle drei sind seriös. Keiner lügt. Hier ist, was die Lücke wirklich erklärt.</p>
+
+<p><strong>Der Technologie-Stack.</strong> Eine WordPress-Website mit einem Premium-Theme braucht weniger Zeit zum Bauen, bringt aber laufende Kosten und Performance-Grenzen mit. Ein individueller Jamstack-Build braucht mehr Können, lädt aber schneller, benötigt weniger Wartung und stößt nicht an eine Wand, wenn Sie wachsen wollen. Der Anfangspreis sieht unterschiedlich aus, das langfristige Bild nicht.</p>
+
+<p><strong>Strategie versus Ausführung.</strong> Manche Designer bauen einfach, was Sie ihnen geben. Andere stellen harte Fragen zu Ihren Kunden, Ihrer Konkurrenz und was die Website wirklich tun muss, um Ihnen Geld zu bringen. Der zweite Typ kostet mehr im Voraus und tendiert dazu, bessere Ergebnisse zu liefern.</p>
+
+<p><strong>Revisionsrichtlinie.</strong> Stundenabrechnung bedeutet, dass jede Änderung Geld kostet und Kunden Feedback zurückhalten, um Rechnungen zu vermeiden. Festpreise mit unbegrenzten Revisionen bedeuten, dass Sie genau sagen, was Sie wollen, bis es stimmt. Der Prozess fühlt sich komplett anders an und die Ergebnisse meist auch.</p>
+
+<p><strong>Wer die Arbeit wirklich macht.</strong> Bei Agenturen zahlen Sie für ein Team, aber oft baut ein Junior-Entwickler die Website. Bei einem spezialisierten Freelancer wissen Sie genau, wer sie baut, und sprechen während des gesamten Projekts direkt mit dieser Person.</p>
+
+<p><strong>Support nach dem Launch.</strong> Manche Angebote beinhalten laufende Wartungsretainer, ob Sie diese wollen oder nicht. Andere, wie meins, halten die Arbeit nach dem Launch rein stundenweise, sodass Sie nur für das bezahlen, was Sie tatsächlich brauchen.</p>
+
+
+## Drei echte Projekte, drei echte Ergebnisse
+
+<h3>MH-Hydraulikservice.de, 2500 EUR, unter drei Wochen</h3>
+
+<p><a href="https://mh-hydraulikservice.de/" target="_blank"><img src="/images/mh-hydraulikservice.webp" alt="MH Hydraulikservice" /></a></p>
+
+<p>Dieser Kunde kam mit einer alten WordPress-Website. Die Struktur war bereits ordentlich, aber der Inhalt war dünn, die Calls-to-Action waren schwach und das Gesamtbild wirkte veraltet.</p>
+
+<p>Der Inhaber war enthusiastisch, engagiert und lieferte alles pünktlich, einschließlich hochwertiger Fotografie. Das machte das gesamte Projekt reibungslos und das Endergebnis merklich stärker.</p>
+
+<p>Vom ersten Gespräch bis zum Launch vergingen weniger als drei Wochen. Die neue Website lädt sofort, sieht auf jedem Gerät professionell aus und die klaren Calls-to-Action machen offensichtlich, was als nächstes zu tun ist. Die bereitgestellte Fotografie kommt auf den schnell ladenden Seiten perfekt zur Geltung. Die alte Website verlor jede Woche Leads. Die Leute kamen, schauten sich um und gingen. Die neue funktioniert wie ein echtes Geschäftswerkzeug rund um die Uhr.</p>
+
+<h3>Safetee-USA.com, E-Commerce von Grund auf</h3>
+
+<p><a href="https://safetee-usa.com/" target="_blank"><img src="/images/safetee.webp" alt="Safetee USA" /></a></p>
+
+<p>Dieses Projekt begann mit fast nichts. Einige Produktinfos, Produktbilder und ein Logo. Ich habe das gesamte Konzept aus dem Nichts entwickelt.</p>
+
+<p>Es ist eine Next.js-Website mit einer individuellen Stripe-Integration und einem auf Cloudflare Edge gehosteten Warenkorb. Technisch einer der saubersten Builds, die ich zuletzt gemacht habe. Normalpreis für diesen Umfang: 3000 EUR (ca. 3500 USD / 4800 CAD). Er bekam einen kleinen Rabatt als Stammkunde, der meine Arbeitsweise bereits kennt. Kein Drama. Einfach Ergebnisse.</p>
+
+<h3>nextmaker.de, eine Seite, maximale Wirkung</h3>
+
+<p><a href="https://nextmaker.de/" target="_blank"><img src="/images/project-nextmaker.webp" alt="Nextmaker" /></a></p>
+
+<p>Das war der Launch einer Personal Brand für jemanden, der gutes Design kennt. Er hatte eine klare Vorstellung und ich habe versucht, so nah wie möglich daran zu kommen. Es war ein Vergnügen, mit ihm zu arbeiten, und ein weiteres Projekt ist bereits in der Pipeline.</p>
+
+<p>Eine Seite. 2500 EUR. Er sieht jetzt aus wie der Experte, der er wirklich ist.</p>
+
+<p>Wir haben es minimal gehalten und uns vollständig auf die Botschaft konzentriert. Besucher verstehen sofort, wer er ist und was er anbietet. Kein Chaos. Nur klare Positionierung, die vom ersten Moment an Vertrauen schafft. Er bekommt jetzt Anfragen von den richtigen Leuten.</p>
+
+
+<h2>Was den Preis wirklich nach oben treibt</h2>
+
+<p>Die meisten Unternehmen denken, sie brauchen alles. Meistens nicht.</p>
+
+<p>Eine Website, die gut rankt, schnell lädt und Besucher konvertiert, braucht weit weniger als die Leute annehmen. Der Basispreis bleibt, wo er ist, weil ich moderne Tools verwende, die mir erlauben, schnell voranzukommen. Folgendes treibt den Umfang, und damit den Preis, nach oben:</p>
+
+<p><strong>Mehr Seiten</strong> brauchen mehr Zeit, um sie so zu strukturieren, dass der Besucher nicht überwältigt wird. <strong>Mehrere Sprachen</strong> bedeuten jeweils echten Mehraufwand. <strong>E-Commerce</strong> bedeutet individuelle Zahlungsabläufe, Warenkorb-Logik, Produktseiten und Edge-Hosting. <strong>Spezielle Integrationen</strong> wie Buchungssysteme oder Mitgliederbereiche werden nach dem Discovery-Call stundenweise angeboten.</p>
+
+<p>Das Entscheidende ist, dass wir all das im Discovery-Call vorab festlegen. Kein Scope-Creep. Keine Überraschungen. Die meisten kleinen und mittelständischen Unternehmen brauchen genau das, was das 2500-EUR-Basispaket liefert. Die Architektur, auf der ich aufbaue, ist außerdem so konzipiert, dass sie sich in jede Richtung erweitern lässt, sodass nichts, was wir später hinzufügen, ein Workaround oder ein Patch ist. Es wächst einfach. Wenn Ihr Projekt im Discovery-Call wächst, sprechen wir sofort darüber und ich gebe Ihnen eine feste Zahl, bevor irgendetwas beginnt.</p>
+
+
+<h2>Die Opportunitätskosten, die die meisten Unternehmer verpassen</h2>
+
+<p>Kürzlich hatte ich einen Interessenten am Telefon. Er wollte das Projekt auf nächstes Jahr verschieben. Er sagte, sein Marketingbudget sei aufgebraucht. Er ist nicht voll ausgelastet. Jeder Auftrag, den er an Land zieht, bringt ihm 10000 bis 15000 EUR Gewinn.</p>
+
+<p>Er hat sich für den DIY-Weg entschieden.</p>
+
+<p>Denken Sie darüber nach. Wenn eine neue Website nur einen einzigen zusätzlichen Auftrag bringt, ist der ROI bereits enorm, noch vor Jahresende. Die meisten meiner Kunden rentabilisieren ihr Investment innerhalb der ersten Monate. Einige in Wochen.</p>
+
+<p>Ein anderer Interessent war ehrlich überrascht von meinem Angebot für 2500 EUR. Er hatte mehrere Angebote im unteren fünfstelligen Bereich für vergleichbare Arbeit erhalten. Ich lebe zwischen Europa und Nordamerika. Ich fliege mehrmals im Jahr hin und her. Für einen ein- bis dreiwöchigen Job, den ich parallel zu einem oder zwei anderen Kunden führen kann, ist 2500 EUR eine gute Zahl, die mich wettbewerbsfähig und ausgelastet hält. Ich bin im Herzen Kapitalist. 30000 bis 40000 EUR für Arbeit zu verlangen, die 7500 bis 10000 EUR wert ist, so will ich nicht arbeiten. Vielleicht ist das naiv. Ich glaube es nicht.</p>
+
+
+## Warum Agenturen so viel mehr für dasselbe Ergebnis verlangen
+
+<p>Agenturen verlangen 10000 EUR und mehr für dieselben Pixel. Ich habe die Angebote gesehen. Drei- bis viermal so viel wie ich verlange. Dasselbe Ergebnis. Langsamere Lieferung. Endlose Zoom-Meetings. Sie fügen Ebenen von Menschen hinzu, die nie den Code anfassen, aber trotzdem auf Ihrer Rechnung erscheinen.</p>
+
+<p>Ich habe Agenturinhaber offen sagen hören, dass sie keine Projekte unter 15000 EUR annehmen, weil sie ihre Gemeinkosten decken müssen. Das ist ihr Problem, nicht Ihres. Ich habe auch beobachtet, wie Agenturen Projekte gewinnen, ihr Prozess-Theater aufbauen und dann die eigentliche Arbeit an einen Freelancer weitergeben, und den Unterschied einstreichen. Kleine und mittelständische Unternehmen werden abgezockt.</p>
+
+<p>Eine Frage, die ich oft höre: „Was ist, wenn Ihr Entwickler verschwindet?" Ich verschwinde nicht. Aber die Taktik der Einschüchterung selbst ist es wert, benannt zu werden. Agenturen suggerieren gerne, dass Freelance-Arbeit eine Art Black Box ist, die niemand sonst öffnen kann. Das ist Unsinn. Eine gut gebaute Website mit etablierten Frameworks und offenen Standards kann von jedem kompetenten Entwickler derselben Klasse übernommen werden. Next.js, Astro, Tailwind, das sind keine obskuren Tools. Es gibt Hunderttausende von Entwicklern, die sie in- und auswendig kennen. Nichts, was ich liefere, ist gesperrt, verschleiert oder proprietär. Jeder Entwickler, der den Jamstack kennt, kann den Code lesen, die Struktur verstehen und genau dort weitermachen, wo ich aufgehört habe. Das ist kein Risiko. So soll modernes Webentwicklung funktionieren.</p>
+
+
+<h2>Wie ich wirklich in ein bis drei Wochen liefere</h2>
+
+<p><strong>Discovery-Call.</strong> Telefon, FaceTime oder persönlich, wenn Sie in Montreal oder Herborn sind. Sie sagen mir, was Sie brauchen. Ich stelle die entscheidenden Fragen. Zwanzig Minuten später haben wir genauen Umfang, genauen Preis und einen klaren Zeitplan. Am selben Tag. Kein Hin und Her danach, weil wir die Details früh festgelegt haben.</p>
+
+<p><strong>Startseite zuerst, direkt in Code.</strong> Ich mache keine Wireframes. Ich öffne den Editor und baue die echte Startseite in echtem Code. Sie sehen pixel-genaues Live-Design innerhalb von Stunden. Etwas Handfestes statt wochenlang auf hübsche Mockups zu warten, die sowieso nie dem Endergebnis entsprechen.</p>
+
+<p><strong>Bauen und verfeinern.</strong> Ich fertige die gesamte Website mit modernen Tools und KI-unterstützten Workflows für Geschwindigkeit. Mobile-first. Schnell. Auf Conversion ausgerichtet. Unbegrenzte Revisionen durchgehend. Wir bleiben in engem Kontakt, damit Sie immer genau wissen, wo die Dinge stehen.</p>
+
+<p><strong>Launch.</strong> Ich bringe es live. Domain, Hosting, SSL. Am selben Tag erledigt. Keine langen Übergabemeetings. Kein Warten auf die Freigabe des finalen Pushs durch jemand anderen.</p>
+
+
+<h2>28 Jahre Preis-Erfahrungen</h2>
+
+<p>Ich habe meine erste Website 1998 mit Notepad und HTML gebaut. Ich habe RichWP, ein WordPress-Theme-Geschäft, jahrelang betrieben, bevor ich es geschlossen habe, weil WordPress zu einer Belastung geworden war, die Zeit und Geld kostete, um Kunden zu bedienen, und die Endergebnisse nie so sauber waren, wie ich sie mir wünschte.</p>
+
+<p>Eine Sache, die ich früh gelernt habe: Manche Kunden erschöpfen Sie unabhängig vom Preis. Ich hatte einmal eine Kundin, die über 160 Support-E-Mails für ein günstiges Produkt geschickt hat. Nach der 160. habe ich sie erstattet und wir haben uns getrennt. Das hat mich gelehrt, den Umfang klar zu kommunizieren und daran festzuhalten. Festpreise und klare Bedingungen schützen beide Seiten.</p>
+
+<p>Meine Preise sind dort, wo sie sind, weil ich Websites bauen möchte, die meinen Kunden Geld bringen. Je schneller und sauberer ich arbeite, desto mehr Unternehmen kann ich wirklich helfen. Das fühlt sich wie der richtige Kompromiss an.</p>
+
+
+<h2>Die echten Kosten erstrecken sich über drei Jahre, nicht über den ersten Tag</h2>
+
+<p>Die meisten Menschen vergleichen die Anfangsangebote und hören dort auf. Das ist der falsche Zahl zum Vergleichen.</p>
+
+<p>Eine WordPress-Website für 1500 EUR scheint günstig, bis Sie zusammenzählen, was danach kommt. Hosting bei einem guten Anbieter kostet 15 bis 30 EUR pro Monat. Premium-Plugins, die Sie wirklich brauchen, kommen auf weitere 200 bis 500 EUR pro Jahr. Sicherheitsupdates, PHP-Versionskonflikte und Plugin-Ausfälle fressen alle paar Monate Stunden, entweder Ihre oder die eines Entwicklers. Nach zwei oder drei Jahren brauchen die meisten WordPress-Websites eine ernsthafte Überarbeitung, weil das Template-Ökosystem sich weiterentwickelt hat und die Website veraltet wirkt. Der Gesamtbetriebskosten über drei Jahre übersteigen oft bei weitem das, was eine ordentlich gebaute individuelle Website im Voraus gekostet hätte.</p>
+
+<p>Die Websites, die ich baue, laufen auf Cloudflares Edge-Netzwerk. Hosting kostet fast nichts. Es gibt keine Plugins zu aktualisieren, keine Sicherheits-Patches zu verfolgen, kein Page Builder zu bekämpfen. Wenn Sie Änderungen wollen, zahlen Sie meinen Stundensatz für die tatsächlich aufgewendete Zeit. Nichts mehr. Die Architektur ist auch darauf ausgelegt, dauerhaft zu bestehen. Ich baue diese Websites nicht in zwei Jahren neu. Meine Kunden auch nicht.</p>
+
+<p>Wenn Sie eine individuelle Website für 2500 EUR mit einem WordPress-Build für 1200 EUR vergleichen, vergleichen Sie über keinen sinnvollen Zeitraum dieselbe Sache.</p>
+
+
+## Warnsignale beim Einholen von Angeboten
+
+<p>Nach 28 Jahren habe ich jede Variante eines schlechten Angebots gesehen. Einige Dinge, die Sie innehalten lassen sollten, bevor Sie irgendetwas unterschreiben.</p>
+
+<p><strong>Vager Umfang.</strong> Wenn das Angebot nicht genau angibt, welche Seiten, Funktionen und Liefergegenstände enthalten sind, werden Sie jede Ergänzung als Nachtragsauftrag verhandeln. Lassen Sie es schriftlich festhalten, bevor Sie beginnen.</p>
+
+<p><strong>Kein Festpreis.</strong> Stundenabrechnung für ein vollständiges Website-Projekt legt das gesamte Risiko auf Sie. Ein Designer, der sein Handwerk kennt, sollte eine feste Zahl nennen können. Wenn er das nicht kann, sagt Ihnen das etwas darüber, wie organisiert das Projekt sein wird.</p>
+
+<p><strong>Proprietäre Systeme.</strong> Manche Agenturen bauen auf Plattformen oder individuellen CMS-Tools, die nur sie selbst warten können. Sie werden dauerhaft von ihnen für jedes Update abhängig. Fragen Sie direkt: Wem gehört der Code und kann irgendein Entwickler nach dem Launch damit arbeiten?</p>
+
+<p><strong>Wireframes, aber kein echter Vorschau.</strong> Wochenlange Mockups und Präsentationen, bevor eine einzige Zeile Code geschrieben wird, ist ein Prozess, der dazu dient, die Agentur-Stundensätze zu rechtfertigen. Er liefert selten bessere Ergebnisse. Ich zeige Ihnen echten Code am ersten Tag.</p>
+
+<p><strong>Kein direkter Zugang zum Entwickler.</strong> Wenn Ihr Hauptansprechpartner ein Account-Manager ist, der Feedback an einen Entwickler weiterleitet, mit dem Sie nie sprechen, erwarten Sie, dass Dinge verloren gehen und Zeitpläne sich dehnen.</p>
+
+
+<h2>Haben Sie noch Fragen?</h2>
+
+<p>Ich schaue mir Ihre aktuelle Website oder Ihre Idee an, stelle ein paar Fragen und gebe Ihnen in zwanzig Minuten den genauen Preis für Ihr Projekt. Kein Verkaufsgespräch. Kein Druck. Nur ein offenes Gespräch.</p>
+
+<p>Wenn es echtes Interesse gibt, mit mir zu arbeiten, kann ich eine kostenlose Vorschau Ihrer Startseite erstellen, damit Sie etwas Konkretes haben, worauf Sie reagieren können, bevor Sie sich zu irgendetwas verpflichten.</p>
+
+<p>Das Telefon ist oben auf der Seite. Oder klicken Sie auf den Kontakt-Button.</p>
+
+<p><strong>Lassen Sie uns etwas bauen, das Ihnen Geld bringt.</strong></p>
+7:[["$","script",null,{"type":"application/ld+json","children":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Was kostet ein Webdesigner?\",\"description\":\"Ehrliche Aufschlüsselung der Webdesign-Kosten: von 500 EUR Offshore-Freelancern bis 25000 EUR Agenturen. Meine Preise als spezialisierter Freelancer, was Sie bekommen, und warum der Markt so funktioniert.\",\"url\":\"https://felixkrusch.com/de/blog/was-kostet-ein-webdesigner\",\"datePublished\":\"2026-04-24T12:00:00Z\",\"dateModified\":\"2026-04-24T12:00:00Z\",\"inLanguage\":\"de\",\"author\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"url\":\"https://felixkrusch.com\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://felixkrusch.com/felixkrusch-logo-2026.svg\"}}}"}],["$","main",null,{"className":"min-h-screen","children":[["$","$L10",null,{"lang":"de"}],["$","article",null,{"className":"container mx-auto px-4 py-24","children":["$","div",null,{"className":"max-w-2xl mx-auto","children":[["$","$L11",null,{"href":"/de/blog","className":"text-primary hover:underline mb-12 inline-block","children":["← ","Zurück zum Blog"]}],"$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-balance","children":"Was kostet ein Webdesigner?"}],["$","div",null,{"className":"prose prose-lg max-w-none mb-8","dangerouslySetInnerHTML":{"__html":"$12"}}],"$L13"]}]}]]}],"$L14","$L15"]
+e:[["$","title","0",{"children":"Was kostet ein Webdesigner?"}],["$","meta","1",{"name":"description","content":"Ehrliche Aufschlüsselung der Webdesign-Kosten: von 500 EUR Offshore-Freelancern bis 25000 EUR Agenturen. Meine Preise als spezialisierter Freelancer, was Sie bekommen, und warum der Markt so funktioniert."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://felixkrusch.com/de/blog/was-kostet-ein-webdesigner/"}],["$","link","4",{"rel":"alternate","hrefLang":"de","href":"https://felixkrusch.com/de/blog/was-kostet-ein-webdesigner/"}],["$","meta","5",{"property":"og:title","content":"Was kostet ein Webdesigner?"}],["$","meta","6",{"property":"og:description","content":"Ehrliche Aufschlüsselung der Webdesign-Kosten: von 500 EUR Offshore-Freelancern bis 25000 EUR Agenturen. Meine Preise als spezialisierter Freelancer, was Sie bekommen, und warum der Markt so funktioniert."}],["$","meta","7",{"property":"og:url","content":"https://felixkrusch.com/de/blog/was-kostet-ein-webdesigner/"}],["$","meta","8",{"property":"og:image","content":"https://felixkrusch.com/images/Felix-Portrait-Sahara.webp"}],["$","meta","9",{"property":"og:image:alt","content":"Felix Krusch – Webdesigner & Entwickler"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:type","content":"article"}],["$","meta","13",{"property":"article:published_time","content":"2026-04-24T12:00:00Z"}],["$","meta","14",{"property":"article:modified_time","content":"2026-04-24T12:00:00Z"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Was kostet ein Webdesigner?"}],["$","meta","17",{"name":"twitter:description","content":"Ehrliche Aufschlüsselung der Webdesign-Kosten: von 500 EUR Offshore-Freelancern bis 25000 EUR Agenturen. Meine Preise als spezialisierter Freelancer, was Sie bekommen, und warum der Markt so funktioniert."}],["$","meta","18",{"name":"twitter:image","content":"https://felixkrusch.com/images/Felix-Portrait-Sahara.webp"}],["$","link","19",{"rel":"icon","href":"/icon.svg"}],["$","$L16","20",{}]]
+a:null
+17:I[76841,["/_next/static/chunks/0e1195f209bb254d.js","/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/db2ab26607134b8d.js"],"Footer"]
+13:["$","div",null,{"className":"text-sm text-muted-foreground","children":["$","time",null,{"children":"24. April 2026"}]}]
+14:["$","section",null,{"id":"contact","className":"py-24 md:py-32 px-6 md:px-12 lg:px-24 bg-foreground text-background","children":["$","div",null,{"className":"max-w-6xl","children":["$","div",null,{"className":"grid lg:grid-cols-2 gap-12 lg:gap-24","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm uppercase tracking-[0.3em] text-background/60 mb-4","children":"Kontakt"}],["$","h2",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6","children":["Bereit zum",["$","br",null,{}],["$","span",null,{"className":"text-accent","children":"Start?"}]]}],["$","p",null,{"className":"text-lg text-background/80 leading-relaxed","children":"Senden Sie mir eine kurze Nachricht – ich antworte innerhalb von 24–48 Stunden mit ersten Gedanken und, falls es passt, einem groben Zeitplan und Angebot."}]]}],["$","div",null,{"className":"flex justify-end items-end h-full","children":["$","div",null,{"className":"space-y-4 text-background/60","children":[["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Email",":"]}]," ",["$","a",null,{"href":"mailto:fk@felixkrusch.com","className":"text-background hover:text-accent transition-colors","children":"fk@felixkrusch.com"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Telefon/WhatsApp",":"]}]," ",["$","a",null,{"href":"https://wa.me/+4915679778463","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"+49 156 79778463"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["LinkedIn",":"]}]," ",["$","a",null,{"href":"https://linkedin.com/in/fkrusch/","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"linkedin.com/in/fkrusch/"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Facebook",":"]}]," ",["$","a",null,{"href":"https://facebook.com/kruschfelix/","className":"text-background hover:text-accent transition-colors","target":"_blank","rel":"noopener noreferrer","children":"facebook.com/kruschfelix/"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Standort",":"]}]," ","Herborn, De"]}]]}]}]]}]}]}]
+15:["$","$L17",null,{"lang":"de"}]
