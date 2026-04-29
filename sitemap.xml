@@ -79,6 +79,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://felixkrusch.com/blog/page/2</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://felixkrusch.com/blog/questions-to-ask-before-hiring-a-web-designer</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -151,6 +157,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://felixkrusch.com/de/blog/page/2</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://felixkrusch.com/de/blog/fragen-vor-webdesigner-engagieren</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -221,6 +233,12 @@
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/fr/blog/page/2</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://felixkrusch.com/fr/blog/questions-a-poser-avant-embaucher-webdesigner</loc>
