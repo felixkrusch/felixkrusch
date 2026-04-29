@@ -6,9 +6,16 @@
     <link>https://felixkrusch.com/de/blog</link>
     <atom:link href="https://felixkrusch.com/de-rss.xml" rel="self" type="application/rss+xml"/>
     <language>de-de</language>
-    <lastBuildDate>Fri, 24 Apr 2026 09:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 21:28:26 GMT</lastBuildDate>
     <generator>Next.js</generator>
      
+     <item>
+       <title><![CDATA[Welche Fragen sollte man stellen, bevor man einen Webdesigner engagiert?]]></title>
+       <description><![CDATA[Wichtige Fragen vor der Beauftragung eines Webdesigners. Schützen Sie sich vor Projektkatastrophen, Scope-Erweiterungen und falschen Plattformentscheidungen. Von jemandem, der alles gesehen hat.]]></description>
+       <link>https://felixkrusch.com/de/blog/fragen-vor-webdesigner-engagieren</link>
+       <guid>https://felixkrusch.com/de/blog/fragen-vor-webdesigner-engagieren</guid>
+       <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
+     </item>
      <item>
        <title><![CDATA[Was kostet ein Webdesigner?]]></title>
        <description><![CDATA[Ehrliche Aufschlüsselung der Webdesign-Kosten: von 500 EUR Offshore-Freelancern bis 25000 EUR Agenturen. Meine Preise als spezialisierter Freelancer, was Sie bekommen, und warum der Markt so funktioniert.]]></description>

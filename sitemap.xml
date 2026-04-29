@@ -74,9 +74,15 @@
   </url>
   <url>
     <loc>https://felixkrusch.com/blog</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/blog/questions-to-ask-before-hiring-a-web-designer</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://felixkrusch.com/blog/how-much-does-it-cost-to-hire-a-web-designer</loc>
@@ -140,9 +146,15 @@
   </url>
   <url>
     <loc>https://felixkrusch.com/de/blog</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/de/blog/fragen-vor-webdesigner-engagieren</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://felixkrusch.com/de/blog/was-kostet-ein-webdesigner</loc>
@@ -206,9 +218,15 @@
   </url>
   <url>
     <loc>https://felixkrusch.com/fr/blog</loc>
-    <lastmod>2026-04-24</lastmod>
+    <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/fr/blog/questions-a-poser-avant-embaucher-webdesigner</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://felixkrusch.com/fr/blog/combien-coute-un-webdesigner</loc>
