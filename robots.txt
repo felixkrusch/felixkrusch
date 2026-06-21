@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
+# Disallow language-specific RSS feeds (they are duplicates)
+Disallow: /*-rss.xml
+
 Sitemap: https://felixkrusch.com/sitemap.xml

@@ -2,306 +2,324 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://felixkrusch.com/</loc>
-    <lastmod>2026-06-13</lastmod>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/impressum</loc>
+    <loc>https://felixkrusch.com/impressum/</loc>
     <lastmod>2026-02-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/privacy-policy</loc>
+    <loc>https://felixkrusch.com/privacy-policy/</loc>
     <lastmod>2026-02-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/refer-and-earn</loc>
-    <lastmod>2026-06-13</lastmod>
+    <loc>https://felixkrusch.com/refer-and-earn/</loc>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr</loc>
-    <lastmod>2026-06-13</lastmod>
+    <loc>https://felixkrusch.com/fr/</loc>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/impressum</loc>
+    <loc>https://felixkrusch.com/fr/impressum/</loc>
     <lastmod>2026-02-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/privacy-policy</loc>
+    <loc>https://felixkrusch.com/fr/privacy-policy/</loc>
     <lastmod>2026-02-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/recommander</loc>
-    <lastmod>2026-06-13</lastmod>
+    <loc>https://felixkrusch.com/fr/recommander/</loc>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de</loc>
-    <lastmod>2026-06-13</lastmod>
+    <loc>https://felixkrusch.com/de/</loc>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/impressum</loc>
+    <loc>https://felixkrusch.com/de/impressum/</loc>
     <lastmod>2026-02-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/privacy-policy</loc>
+    <loc>https://felixkrusch.com/de/privacy-policy/</loc>
     <lastmod>2026-02-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/empfehlen</loc>
-    <lastmod>2026-06-13</lastmod>
+    <loc>https://felixkrusch.com/de/empfehlen/</loc>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog</loc>
+    <loc>https://felixkrusch.com/applications/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/fr/applications/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/de/applications/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://felixkrusch.com/blog/</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog/page/2</loc>
+    <loc>https://felixkrusch.com/blog/page/2/</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog/questions-to-ask-before-hiring-a-web-designer</loc>
+    <loc>https://felixkrusch.com/blog/questions-to-ask-before-hiring-a-web-designer/</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog/how-much-does-it-cost-to-hire-a-web-designer</loc>
+    <loc>https://felixkrusch.com/blog/how-much-does-it-cost-to-hire-a-web-designer/</loc>
     <lastmod>2026-04-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog/hire-web-designer-or-diy-website-builder</loc>
+    <loc>https://felixkrusch.com/blog/hire-web-designer-or-diy-website-builder/</loc>
     <lastmod>2026-04-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog/agility-and-pivots</loc>
+    <loc>https://felixkrusch.com/blog/agility-and-pivots/</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog/i-shut-down-richwp-then-i-built-the-cms-i-always-wanted</loc>
+    <loc>https://felixkrusch.com/blog/i-shut-down-richwp-then-i-built-the-cms-i-always-wanted/</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog/agents-are-the-new-cms</loc>
+    <loc>https://felixkrusch.com/blog/agents-are-the-new-cms/</loc>
     <lastmod>2026-03-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog/wordpress-fse-diminishing-returns</loc>
+    <loc>https://felixkrusch.com/blog/wordpress-fse-diminishing-returns/</loc>
     <lastmod>2026-02-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog/why-85-percent-of-cleaning-companies-and-janitor-websites-scare-off-customers-in-2026</loc>
+    <loc>https://felixkrusch.com/blog/why-85-percent-of-cleaning-companies-and-janitor-websites-scare-off-customers-in-2026/</loc>
     <lastmod>2026-02-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog/freelancers-obliterate-agencies-for-smes-in-2026-wake-up</loc>
+    <loc>https://felixkrusch.com/blog/freelancers-obliterate-agencies-for-smes-in-2026-wake-up/</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog/noise-drowns-signal-people-tune-out</loc>
+    <loc>https://felixkrusch.com/blog/noise-drowns-signal-people-tune-out/</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/blog/you-dont-need-a-cms-anymore</loc>
+    <loc>https://felixkrusch.com/blog/you-dont-need-a-cms-anymore/</loc>
     <lastmod>2026-02-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog</loc>
+    <loc>https://felixkrusch.com/de/blog/</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/page/2</loc>
+    <loc>https://felixkrusch.com/de/blog/page/2/</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/fragen-vor-webdesigner-engagieren</loc>
+    <loc>https://felixkrusch.com/de/blog/fragen-vor-webdesigner-engagieren/</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/was-kostet-ein-webdesigner</loc>
+    <loc>https://felixkrusch.com/de/blog/was-kostet-ein-webdesigner/</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/webdesigner-oder-diy-builder</loc>
+    <loc>https://felixkrusch.com/de/blog/webdesigner-oder-diy-builder/</loc>
     <lastmod>2026-04-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/agilitaet-und-richtungswechsel</loc>
+    <loc>https://felixkrusch.com/de/blog/agilitaet-und-richtungswechsel/</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/ich-habe-richwp-eingestellt-dann-habe-ich-das-cms-gebaut-das-ich-immer-wollte</loc>
+    <loc>https://felixkrusch.com/de/blog/ich-habe-richwp-eingestellt-dann-habe-ich-das-cms-gebaut-das-ich-immer-wollte/</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/agenten-sind-das-neue-cms</loc>
+    <loc>https://felixkrusch.com/de/blog/agenten-sind-das-neue-cms/</loc>
     <lastmod>2026-03-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/wordpress-fse-aufwendig-und-unflexibel</loc>
+    <loc>https://felixkrusch.com/de/blog/wordpress-fse-aufwendig-und-unflexibel/</loc>
     <lastmod>2026-02-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/warum-85-prozent-der-reinigungsfirmen-und-hausmeister-websites-2026-kunden-vergraulen</loc>
+    <loc>https://felixkrusch.com/de/blog/warum-85-prozent-der-reinigungsfirmen-und-hausmeister-websites-2026-kunden-vergraulen/</loc>
     <lastmod>2026-02-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/freelancer-zerlegen-agenturen-fuer-kmu-2026-wach-auf</loc>
+    <loc>https://felixkrusch.com/de/blog/freelancer-zerlegen-agenturen-fuer-kmu-2026-wach-auf/</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/laerm-killt-das-signal-menschen-schalten-ab</loc>
+    <loc>https://felixkrusch.com/de/blog/laerm-killt-das-signal-menschen-schalten-ab/</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/de/blog/du-brauchst-kein-cms-mehr</loc>
+    <loc>https://felixkrusch.com/de/blog/du-brauchst-kein-cms-mehr/</loc>
     <lastmod>2026-02-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog</loc>
+    <loc>https://felixkrusch.com/fr/blog/</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog/page/2</loc>
+    <loc>https://felixkrusch.com/fr/blog/page/2/</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog/questions-a-poser-avant-embaucher-webdesigner</loc>
+    <loc>https://felixkrusch.com/fr/blog/questions-a-poser-avant-embaucher-webdesigner/</loc>
     <lastmod>2026-04-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog/combien-coute-un-webdesigner</loc>
+    <loc>https://felixkrusch.com/fr/blog/combien-coute-un-webdesigner/</loc>
     <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog/embaucher-webdesigner-ou-diy</loc>
+    <loc>https://felixkrusch.com/fr/blog/embaucher-webdesigner-ou-diy/</loc>
     <lastmod>2026-04-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog/agilite-et-pivots</loc>
+    <loc>https://felixkrusch.com/fr/blog/agilite-et-pivots/</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog/jai-ferme-richwp-puis-jai-construit-le-cms-que-jai-toujours-voulu</loc>
+    <loc>https://felixkrusch.com/fr/blog/jai-ferme-richwp-puis-jai-construit-le-cms-que-jai-toujours-voulu/</loc>
     <lastmod>2026-03-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog/les-agents-sont-le-nouveau-cms</loc>
+    <loc>https://felixkrusch.com/fr/blog/les-agents-sont-le-nouveau-cms/</loc>
     <lastmod>2026-03-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog/wordpress-fse-rendements-decroissants</loc>
+    <loc>https://felixkrusch.com/fr/blog/wordpress-fse-rendements-decroissants/</loc>
     <lastmod>2026-02-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog/pourquoi-85-pourcent-des-sites-web-dentreprises-de-nettoyage-et-de-conciergerie-font-fuir-les-clients-en-2026</loc>
+    <loc>https://felixkrusch.com/fr/blog/pourquoi-85-pourcent-des-sites-web-dentreprises-de-nettoyage-et-de-conciergerie-font-fuir-les-clients-en-2026/</loc>
     <lastmod>2026-02-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog/les-freelances-detruisent-les-agences-pour-les-pme-en-2026-ouvrez-les-yeux</loc>
+    <loc>https://felixkrusch.com/fr/blog/les-freelances-detruisent-les-agences-pour-les-pme-en-2026-ouvrez-les-yeux/</loc>
     <lastmod>2026-02-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog/le-bruit-noie-le-signal-les-gens-se-desengagent</loc>
+    <loc>https://felixkrusch.com/fr/blog/le-bruit-noie-le-signal-les-gens-se-desengagent/</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://felixkrusch.com/fr/blog/vous-navez-plus-besoin-dun-cms</loc>
+    <loc>https://felixkrusch.com/fr/blog/vous-navez-plus-besoin-dun-cms/</loc>
     <lastmod>2026-02-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
