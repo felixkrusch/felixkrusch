@@ -1,0 +1,23 @@
+# French locale removed. Specific twins first, then catch-all.
+/fr/  /  301
+/fr/impressum/  /impressum/  301
+/fr/privacy-policy/  /privacy-policy/  301
+/fr/recommander/  /refer-and-earn/  301
+/fr/applications/  /applications/  301
+/fr/blog/  /blog/  301
+/fr/blog/page/2/  /blog/page/2/  301
+/fr/blog/combien-de-temps-pour-concevoir-un-site-web/  /blog/how-long-does-it-take-to-get-a-website-designed/  301
+/fr/blog/questions-a-poser-avant-embaucher-webdesigner/  /blog/questions-to-ask-before-hiring-a-web-designer/  301
+/fr/blog/combien-coute-un-webdesigner/  /blog/how-much-does-it-cost-to-hire-a-web-designer/  301
+/fr/blog/embaucher-webdesigner-ou-diy/  /blog/hire-web-designer-or-diy-website-builder/  301
+/fr/blog/agilite-et-pivots/  /blog/agility-and-pivots/  301
+/fr/blog/jai-ferme-richwp-puis-jai-construit-le-cms-que-jai-toujours-voulu/  /blog/i-shut-down-richwp-then-i-built-the-cms-i-always-wanted/  301
+/fr/blog/les-agents-sont-le-nouveau-cms/  /blog/agents-are-the-new-cms/  301
+/fr/blog/wordpress-fse-rendements-decroissants/  /blog/wordpress-fse-diminishing-returns/  301
+/fr/blog/pourquoi-85-pourcent-des-sites-web-dentreprises-de-nettoyage-et-de-conciergerie-font-fuir-les-clients-en-2026/  /blog/why-85-percent-of-cleaning-companies-and-janitor-websites-scare-off-customers-in-2026/  301
+/fr/blog/les-freelances-detruisent-les-agences-pour-les-pme-en-2026-ouvrez-les-yeux/  /blog/freelancers-obliterate-agencies-for-smes-in-2026-wake-up/  301
+/fr/blog/le-bruit-noie-le-signal-les-gens-se-desengagent/  /blog/noise-drowns-signal-people-tune-out/  301
+/fr/blog/vous-navez-plus-besoin-dun-cms/  /blog/you-dont-need-a-cms-anymore/  301
+/fr-rss.xml  /rss.xml  301
+/fr  /  301
+/fr/*  /  301
