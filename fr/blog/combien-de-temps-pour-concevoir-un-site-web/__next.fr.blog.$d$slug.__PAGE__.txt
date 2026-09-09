@@ -1,0 +1,93 @@
+1:"$Sreact.fragment"
+2:I[13474,["/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/6b0667f39c820a62.js"],"Navigation"]
+3:I[22016,["/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/6b0667f39c820a62.js"],""]
+b:I[76841,["/_next/static/chunks/bea932c054b7bd5d.js","/_next/static/chunks/6b0667f39c820a62.js"],"Footer"]
+c:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/71269f22dd7bc8b6.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+4:T309a,<p>La semaine dernière, un gars m'a demandé une date de mise en ligne avant qu'on ait parlé des pages, des photos, ou même s'il avait un logo qui n'était pas une capture d'écran. Légitime. Tout le monde veut la date. La date n'est pas le morceau intéressant.</p>
+
+<p>Environ dix jours ouvrables si les fichiers sont prêts. Plus longtemps s'ils ne le sont pas. Les agences parlent en semaines à cause des allers-retours, pas parce que le travail est plus dur.</p>
+
+<p>Dix jours ouvrables, c'est mon point de départ pour un site normal : une langue, pas de boutique, à peu près cinq à huit pages. L'e-commerce, une deuxième langue ou un système de réservation sur mesure, c'est une autre horloge, et je le chiffre à part. Les dix jours commencent le jour où le logo, les photos et les textes sont dans mes mains, pas le jour du premier appel.</p>
+
+<p>Parfois je vais plus vite. Quand le périmètre est plus large, ça prend plus longtemps. Je veux vous montrer exactement ce qui se passe pendant ces dix jours, parce que la réponse, c'est le process, pas seulement le chiffre.</p>
+
+<h2>Pourquoi dix jours sonne trop rapide (et n'est pas un piège)</h2>
+
+<p>Si vous avez déjà parlé à une agence, dix jours sonnent probablement impossibles. Parce qu'une agence vous vend en général un build WordPress : intégrations de plugins, une phase design avec wireframes et tours de maquettes, et une équipe de dev qui n'est pas la personne qui vous a vendu le projet. Chacun de ces trucs ajoute des semaines. Pas parce que le travail est dur. Parce qu'il y a plus de monde, plus de passages de relais, et plus de « je vérifie avec l'équipe » entre les deux.</p>
+
+<p>Je construis des sites statiques rapides. Astro ou Next.js, pas WordPress. Ce n'est pas un choix de style. C'est la raison pour laquelle le délai est ce qu'il est. Pas de base de données à configurer, pas de conflits de plugins à déboguer, pas de constructeur de pages qui se bat contre la mise en page. J'écris le code, le site part, et il est rapide sur les Core Web Vitals parce qu'il n'y a rien entre le visiteur et la page. Un site statique casse aussi moins. Moins de choses qui cassent, moins de temps à réparer au lieu de construire.</p>
+
+<p>Rien de tout ça n'est un raccourci. C'est une autre façon de construire, plus rapide parce qu'il y a moins de surcouche, pas parce que j'ai sauté une étape.</p>
+
+<p>Sur le calendrier, dix jours ouvrables font deux semaines si les retours arrivent vite. Les 1 à 3 semaines affichées sur le site, c'est la fourchette honnête une fois qu'on ajoute les week-ends, un fichier logo qui traîne, ou un aperçu de page d'accueil qui reste dans une boîte mail. Dix jours ouvrables, c'est le build. Une à trois semaines, c'est le projet.</p>
+
+<h2>Ce dont j'ai vraiment besoin de votre côté</h2>
+
+<p>C'est là que la plupart des conversations sur le délai dérapent : le client croit que les dix jours sont entièrement sur moi, et que je suis le goulot. Presque jamais. Le goulot, quand il y en a un, c'est presque toujours l'attente des fichiers côté client. Si vous avez ce qui suit avant qu'on démarre, dix jours sont réalistes. Si je dois vous courir après pour un fichier logo au jour trois, ça ne l'est plus.</p>
+
+<p>Votre logo, en fichier vectoriel. SVG, AI ou PDF. Pas un PNG, pas un JPG. J'entends souvent : « J'ai seulement le logo que mon ancien designer m'a donné, et c'est un JPEG. » Ce JPEG a presque certainement été généré à partir d'un vectoriel à un moment. Demandez l'original à celui qui l'a fait. Si personne ne le trouve, il faudra peut-être le recréer, et c'est une étape que personne n'avait prévue.</p>
+
+<p>Les photos que vous voulez utiliser et qui ne sont pas déjà sur votre site actuel, et seulement si vous en avez les droits. Si votre site actuel a des photos que vous aimez et que vous en êtes propriétaire, je peux généralement les récupérer. Si vous avez un dossier de nouvelles photos (équipe, produits, peu importe), envoyez-le dès le départ, pas à mi-parcours.</p>
+
+<p>Vos textes, dans l'état où ils sont. Pas besoin que ce soit poli. Je préfère un Google Doc brouillon avec tout ce que vous voulez dire, plutôt que rien, parce que je peux travailler un texte brut. Je ne peux pas travailler une page vide.</p>
+
+<p>C'est vraiment l'essentiel. Une fois que j'ai le logo, les photos et les textes, la balle est presque entièrement dans mon camp.</p>
+
+<h2>Le process, jour par jour</h2>
+
+<p>Voici à peu près comment se découpent les dix jours. Je dis « à peu près » parce que chaque projet bouge un peu, mais c'est la forme. Le jour 10 ne tient que si la page d'accueil revient en un jour ou deux, pas en une semaine.</p>
+
+<p><strong>Jours 1-3 : l'aperçu de la page d'accueil.</strong> C'est la première chose que vous voyez, et c'est l'étape la plus importante de tout le process, parce que c'est là qu'on vérifie qu'on est alignés avant que je construise le reste du site autour d'un design que vous n'aimez pas. Je construis d'abord la page d'accueil, en vrai, sur un lien de prévisualisation réel, pas une maquette statique, pas un fichier Figma. Vous cliquez dans une vraie page.</p>
+
+<p><strong>Le point de validation.</strong> Une fois la page d'accueil approuvée, je facture 50 pour cent. Ce n'est pas une formalité. C'est le moment où le projet se verrouille vraiment. Avant, on cherche encore la direction. Après, on exécute un plan connu. C'est aussi pour ça que cette étape compte autant : il est moins cher et plus rapide d'ajuster la direction sur une page que de découvrir à mi-parcours d'un site de sept pages qu'on n'est pas d'accord sur l'ensemble.</p>
+
+<p>Pendant le build, les révisions sont illimitées jusqu'à ce que le site soit juste. Pas de facture en plus pour ça. Je préfère corriger la page d'accueil trois fois en semaine une plutôt que reconstruire six pages en semaine trois.</p>
+
+<p><strong>Jours 4-9 : le reste du site.</strong> Une fois la page d'accueil approuvée, les autres pages avancent vite, parce que les décisions créatives les plus dures (mise en page, ton, direction visuelle) sont déjà prises. C'est là que le contenu prêt dès le départ paie. Si vos textes et photos sont dans ma boîte mail, je construis. Si je les attends page par page, c'est là que dix jours deviennent quatorze.</p>
+
+<p><strong>Jour 10 : mise en ligne, et la deuxième facture.</strong> Les 50 pour cent restants sont dus quand le site est en ligne. Pas avant. Je ne demande pas le paiement intégral au départ, et je ne fais pas traîner la facture finale après le lancement non plus. Elle est liée au moment où le site est réellement en ligne et fonctionnel.</p>
+
+<h2>Ce qui se passe après la mise en ligne</h2>
+
+<p>La relation ne s'arrête pas au lancement, et je ne veux pas que vous le croyiez. Le premier tour de modifications de contenu, en général trois à quatre semaines plus tard, une fois que des clients, des contacts ou des visiteurs ont vraiment vu le site en ligne et vous ont donné leur avis, est inclus. C'est volontaire. On ne peut pas savoir ce qui doit bouger tant que de vraies personnes n'ont pas utilisé la chose. Intégrer ce premier tour dans le process, ça veut dire que vous ne payez pas les corrections évidentes qui n'apparaissent qu'une fois le site live.</p>
+
+<p>Après ce premier tour, les changements en continu sont facturés 95 EUR de l'heure, par tranches de 5 minutes. Je veux être clair sur ce que ça donne concrètement, parce que « à l'heure » fait peur, et ça ne devrait pas ici. Changer quelques images et un peu de texte, c'est en général 10 à 15 minutes. Pas de frais d'entretien de CMS, parce qu'il n'y a pas de CMS. Vous ne payez pas un retainer mensuel pour faire tourner un système. Vous payez les minutes réelles qu'il me faut pour faire le changement demandé.</p>
+
+<p>Si vous voulez modifier textes et photos vous-même sans passer par moi, la réponse honnête : en général non, et la plupart des petites et moyennes entreprises n'en ont pas besoin. Le contenu de ces sites bouge assez rarement pour qu'un message soit moins cher et moins pénible qu'un CMS à maintenir : pas de mises à jour de plugins, pas de correctifs de sécurité, pas d'appels « pourquoi le site a cassé après une mise à jour ».</p>
+
+<p>Si une partie du site doit vraiment être modifiable de votre côté, un menu de restaurant, une rubrique promotions, quelque chose qui change chaque semaine, je construis ce morceau-là pour que vous puissiez le mettre à jour vous-même. Ce que je ne fais pas, c'est greffer un CMS complet pour rendre tout le site éditable.</p>
+
+<h2>Ce qui fait vraiment glisser le délai</h2>
+
+<p>Je veux être honnête sur cette partie, parce que c'est elle qui décide si le projet prend dix jours ouvrables ou trois semaines.</p>
+
+<p><strong>Des retours lents sur l'aperçu de la page d'accueil.</strong> L'approbation de la page d'accueil est un vrai point de contrôle, pas un tampon. Si ça reste une semaine dans votre boîte mail parce que vous êtes pris, cette semaine sort directement des dix jours.</p>
+
+<p><strong>Un périmètre qui grossit en cours de route.</strong> L'e-commerce, une deuxième langue, un système de réservation qui n'est pas celui que vous avez déjà. Je peux construire tout ça, mais ce n'est pas le socle des dix jours. Ça se chiffre à part dès le jour un. Mieux vaut le savoir à ce moment-là que le découvrir le jour sept.</p>
+
+<p>Ce n'est pas un sermon. C'est juste le schéma réel, après assez de projets pour le voir se répéter. Les entreprises qui tiennent les dix jours ouvrables sont celles qui renvoient l'approbation de la page d'accueil en un jour ou deux, pas en une semaine.</p>
+
+<h2>Les prix, pour qu'il n'y ait pas de flou</h2>
+
+<p>Comme le délai et le prix sont toujours collés dans la tête des gens, voici la version courte : 2 500 EUR / 3 000 USD / 4 000 CAD couvrent le build, une langue incluse. Une langue supplémentaire, c'est 500 EUR forfaitaire. C'est le seul coût de construction, pas de frais cachés, pas de ligne surprise plus tard. L'e-commerce et la réservation sur mesure se chiffrent à part, selon le périmètre.</p>
+
+<p>Vous gardez l'outil de réservation que vous utilisez déjà ; je ne vous impose pas d'en changer. Le nom de domaine et l'email restent chez vous, sous votre contrôle, là où ils doivent être. Si vous n'avez pas déjà d'hébergement, je mets le site sur Cloudflare, sur leur offre gratuite. Ça ne vous coûte rien, et leur offre gratuite tient largement le type de site que je vous construis.</p>
+
+<p>Le paiement : 50 pour cent après approbation de la page d'accueil, 50 pour cent quand le site est en ligne.</p>
+
+<h2>La version réaliste, du début à la fin</h2>
+
+<p>Donc, rassemblé : on fait un court appel et on fige le périmètre. Vous m'envoyez le logo, les photos et les textes. Ça, c'est le jour un. Je construis la page d'accueil dans les trois premiers jours et je vous envoie un aperçu en ligne. Vous l'approuvez, je facture la moitié, et je construis le reste du site dans les jours qui suivent. Vers le jour dix, si les retours ont été rapides, le site est en ligne, et je facture l'autre moitié. Sur le calendrier, ça tombe en général dans une à trois semaines. Trois à quatre semaines plus tard, une fois que de vrais visiteurs ont utilisé le site, on fait un tour d'ajustements, inclus, sans supplément. Après ça, les changements sont petits, rapides, et facturés seulement pour les minutes qu'ils prennent.</p>
+
+<p>Voilà le délai honnête. Pas un chiffre marketing fait pour impressionner, mais la forme réelle de ces projets, y compris la part qui est de votre côté autant que de la mienne. Si vos fichiers sont prêts et que vous renvoyez les retours vite, dix jours ouvrables, c'est réel. Si ce n'est pas le cas, c'est encore rapide. Juste pas aussi rapide.</p>
+
+<p>Si vous avez déjà le logo en vectoriel, un dossier de photos dont vous êtes propriétaire, et un Google Doc un peu brouillon avec les textes, on peut parler dates dès le premier appel. Je regarde votre site actuel ou votre idée, je pose quelques questions, et je vous dis si vous êtes dans le socle des dix jours ou sur un devis au périmètre. Pas de pitch. Pas de pression. Le téléphone est en haut de la page. Ou cliquez sur le bouton contact.</p>
+0:{"buildId":"eIETCrOFiNrErO8MAoTQ_","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","children":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Combien de temps faut-il pour concevoir un site web ?\",\"description\":\"Environ dix jours ouvrables si les fichiers sont prêts. Plus longtemps s'ils ne le sont pas. Les agences parlent en semaines à cause des allers-retours, pas parce que le travail est plus dur.\",\"url\":\"https://felixkrusch.com/fr/blog/combien-de-temps-pour-concevoir-un-site-web\",\"datePublished\":\"2026-05-05T12:00:00Z\",\"dateModified\":\"2026-05-05T12:00:00Z\",\"inLanguage\":\"fr\",\"author\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"url\":\"https://felixkrusch.com\",\"sameAs\":[\"https://www.linkedin.com/in/fkrusch/\",\"https://facebook.com/kruschfelix/\"]},\"publisher\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"url\":\"https://felixkrusch.com\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://felixkrusch.com/felixkrusch-logo-2026.svg\"}}}"}],["$","script",null,{"type":"application/ld+json","children":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Blog\",\"item\":\"https://felixkrusch.com/fr/blog\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Article\",\"item\":\"https://felixkrusch.com/fr/blog/combien-de-temps-pour-concevoir-un-site-web\"}]}"}],["$","main",null,{"className":"min-h-screen","children":[["$","$L2",null,{"lang":"fr"}],["$","article",null,{"className":"container mx-auto px-4 py-24","children":["$","div",null,{"className":"max-w-2xl mx-auto","children":[["$","$L3",null,{"href":"/fr/blog","className":"text-primary hover:underline mb-12 inline-block","children":["← ","Retour au Blog"]}],"$undefined",["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-balance","children":"Combien de temps faut-il pour concevoir un site web ?"}],["$","div",null,{"className":"prose prose-lg max-w-none mb-8","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"]}]}]]}],"$L6","$L7"],["$L8","$L9"],"$La"]}],"loading":null,"isPartial":false}
+5:["$","div",null,{"className":"text-sm text-muted-foreground","children":["$","time",null,{"children":"5 mai 2026"}]}]
+6:["$","section",null,{"id":"connect","className":"py-24 md:py-32 px-6 md:px-12 lg:px-24 bg-foreground text-background","children":["$","div",null,{"className":"max-w-6xl","children":["$","div",null,{"className":"grid lg:grid-cols-2 gap-12 lg:gap-24","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-sm uppercase tracking-[0.3em] text-background/60 mb-4","children":"Contact"}],["$","h2",null,{"className":"text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-6","children":["Prêt à",["$","br",null,{}],["$","span",null,{"className":"text-accent","children":"commencer?"}]]}],["$","p",null,{"className":"text-lg text-background/80 leading-relaxed","children":"Envoyez-moi un court message – je vous répondrai dans les 24 à 48 heures avec mes premières réflexions et, si c'est une bonne correspondance, un calendrier approximatif et un devis."}]]}],["$","div",null,{"className":"flex justify-end items-end h-full","children":["$","div",null,{"className":"space-y-4 text-background/60","children":[["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Email",":"]}]," ",["$","a",null,{"href":"mailto:fk@felixkrusch.com","className":"text-background hover:text-accent transition-colors","children":"fk@felixkrusch.com"}]]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Téléphone",":"]}]," ","+1 581 222 2515"]}],["$","p",null,{"children":[["$","span",null,{"className":"text-background/40","children":["Location",":"]}]," ","Montréal, QC"]}]]}]}]]}]}]}]
+7:["$","$Lb",null,{"lang":"fr"}]
+8:["$","script","script-0",{"src":"/_next/static/chunks/bea932c054b7bd5d.js","async":true}]
+9:["$","script","script-1",{"src":"/_next/static/chunks/6b0667f39c820a62.js","async":true}]
+a:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

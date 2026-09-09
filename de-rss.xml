@@ -6,9 +6,16 @@
     <link>https://felixkrusch.com/de/blog</link>
     <atom:link href="https://felixkrusch.com/de-rss.xml" rel="self" type="application/rss+xml"/>
     <language>de-de</language>
-    <lastBuildDate>Wed, 09 Sep 2026 15:06:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:39:51 GMT</lastBuildDate>
     <generator>Next.js</generator>
      
+     <item>
+       <title><![CDATA[Wie lange dauert es, eine Website gestalten zu lassen?]]></title>
+       <description><![CDATA[Etwa zehn Arbeitstage, wenn die Unterlagen da sind. Länger, wenn nicht. Agenturen rechnen in Wochen, weil es Übergaben gibt, nicht weil die Arbeit schwerer ist.]]></description>
+       <link>https://felixkrusch.com/de/blog/wie-lange-dauert-es-eine-website-gestalten-zu-lassen</link>
+       <guid>https://felixkrusch.com/de/blog/wie-lange-dauert-es-eine-website-gestalten-zu-lassen</guid>
+       <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
+     </item>
      <item>
        <title><![CDATA[Welche Fragen sollte man stellen, bevor man einen Webdesigner engagiert?]]></title>
        <description><![CDATA[Wichtige Fragen vor der Beauftragung eines Webdesigners. Schützen Sie sich vor Projektkatastrophen, Scope-Erweiterungen und falschen Plattformentscheidungen. Von jemandem, der alles gesehen hat.]]></description>
