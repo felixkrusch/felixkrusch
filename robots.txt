@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-# Disallow language-specific RSS feeds (they are duplicates)
-Disallow: /*-rss.xml
+# Only the English RSS is considered duplicate in some contexts; German feed is served at /de-rss.xml and linked from /de/
+Disallow: /rss.xml
 
 Sitemap: https://felixkrusch.com/sitemap.xml
