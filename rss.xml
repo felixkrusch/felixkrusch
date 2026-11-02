@@ -1,97 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Felix Krusch - Web Design &amp; Development Blog</title>
-    <description>Insights on web design, development, SEO, and digital strategy from Felix Krusch, freelance web designer and developer in Canada.</description>
-    <link>https://felixkrusch.com/blog</link>
-    <atom:link href="https://felixkrusch.com/rss.xml" rel="self" type="application/rss+xml"/>
-    <language>en-ca</language>
-    <lastBuildDate>Tue, 27 Oct 2026 12:35:47 GMT</lastBuildDate>
-    <generator>Next.js</generator>
-     
-     <item>
-       <title><![CDATA[How Long Does It Take to Get a Website Designed?]]></title>
-       <description><![CDATA[About ten working days if the assets are ready. Longer if they aren't. Agencies quote weeks because of handoffs, not because the work is harder.]]></description>
-       <link>https://felixkrusch.com/blog/how-long-does-it-take-to-get-a-website-designed</link>
-       <guid>https://felixkrusch.com/blog/how-long-does-it-take-to-get-a-website-designed</guid>
-       <pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
-     </item>
-     <item>
-       <title><![CDATA[What Questions Should You Ask Before Hiring a Web Designer?]]></title>
-       <description><![CDATA[28 essential questions to ask before hiring a web designer. Protect yourself from project disasters, scope creep, and bad platform choices. From someone who's seen it all.]]></description>
-       <link>https://felixkrusch.com/blog/questions-to-ask-before-hiring-a-web-designer</link>
-       <guid>https://felixkrusch.com/blog/questions-to-ask-before-hiring-a-web-designer</guid>
-       <pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate>
-     </item>
-     <item>
-       <title><![CDATA[How Much Does It Cost to Hire a Web Designer?]]></title>
-       <description><![CDATA[Honest breakdown of web design costs: from 500 EUR offshore freelancers to 25000 EUR agencies. My pricing as a specialist freelancer, what you get, and why the market works this way.]]></description>
-       <link>https://felixkrusch.com/blog/how-much-does-it-cost-to-hire-a-web-designer</link>
-       <guid>https://felixkrusch.com/blog/how-much-does-it-cost-to-hire-a-web-designer</guid>
-       <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
-     </item>
-     <item>
-       <title><![CDATA[Should I Hire a Web Designer or Use a DIY Website Builder?]]></title>
-       <description><![CDATA[DIY website builders look cheap, until you count the real cost in time, lost leads and brand damage. Honest comparison from a web designer with 28 years of experience and 300+ projects.]]></description>
-       <link>https://felixkrusch.com/blog/hire-web-designer-or-diy-website-builder</link>
-       <guid>https://felixkrusch.com/blog/hire-web-designer-or-diy-website-builder</guid>
-       <pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate>
-     </item>
-     <item>
-       <title><![CDATA[Agility and Pivots]]></title>
-       <description><![CDATA[I never planned to specialize. I just got really good at one thing because that was how I lived. Over time it became my sharp spike.]]></description>
-       <link>https://felixkrusch.com/blog/agility-and-pivots</link>
-       <guid>https://felixkrusch.com/blog/agility-and-pivots</guid>
-       <pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate>
-     </item>
-     <item>
-       <title><![CDATA[2026: I shut down RichWP. Then I built the CMS I always wanted.]]></title>
-       <description><![CDATA[2026: I shut down RichWP — a WordPress theme business I had built since 2010 — for good.]]></description>
-       <link>https://felixkrusch.com/blog/i-shut-down-richwp-then-i-built-the-cms-i-always-wanted</link>
-       <guid>https://felixkrusch.com/blog/i-shut-down-richwp-then-i-built-the-cms-i-always-wanted</guid>
-       <pubDate>Mon, 16 Mar 2026 12:00:00 GMT</pubDate>
-     </item>
-     <item>
-       <title><![CDATA[Agents Are the New CMS]]></title>
-       <description><![CDATA[2026: Your website shouldn't fight you every time you want to update it. AI agents sitting between you and the site so you never have to touch the backend again.]]></description>
-       <link>https://felixkrusch.com/blog/agents-are-the-new-cms</link>
-       <guid>https://felixkrusch.com/blog/agents-are-the-new-cms</guid>
-       <pubDate>Sat, 07 Mar 2026 12:00:00 GMT</pubDate>
-     </item>
-     <item>
-       <title><![CDATA[WordPress FSE diminishing returns]]></title>
-       <description><![CDATA[WordPress FSE is a lesson in diminishing returns. The complexity-to-flexibility ratio doesn't make sense when modern stacks just work.]]></description>
-       <link>https://felixkrusch.com/blog/wordpress-fse-diminishing-returns</link>
-       <guid>https://felixkrusch.com/blog/wordpress-fse-diminishing-returns</guid>
-       <pubDate>Sat, 28 Feb 2026 12:00:00 GMT</pubDate>
-     </item>
-     <item>
-       <title><![CDATA[Why 85% of Cleaning Companies & Janitor Websites Scare Off Customers in 2026]]></title>
-       <description><![CDATA[The hard truth: Slow loading times, unclear prices, missing forms, fake images, no reviews, mobile issues. A simple one-pager fixes 80% and brings more inquiries. No agency needed.]]></description>
-       <link>https://felixkrusch.com/blog/why-85-percent-of-cleaning-companies-and-janitor-websites-scare-off-customers-in-2026</link>
-       <guid>https://felixkrusch.com/blog/why-85-percent-of-cleaning-companies-and-janitor-websites-scare-off-customers-in-2026</guid>
-       <pubDate>Fri, 20 Feb 2026 12:00:00 GMT</pubDate>
-     </item>
-     <item>
-       <title><![CDATA[Freelancers Obliterate Agencies for SMEs in 2026 - Wake Up]]></title>
-       <description><![CDATA[Small/midsize businesses are getting robbed by agencies charging 3-4x more for the same work. Freelancers deliver 90-110% quality for 30-60% of the price with faster delivery.]]></description>
-       <link>https://felixkrusch.com/blog/freelancers-obliterate-agencies-for-smes-in-2026-wake-up</link>
-       <guid>https://felixkrusch.com/blog/freelancers-obliterate-agencies-for-smes-in-2026-wake-up</guid>
-       <pubDate>Wed, 18 Feb 2026 12:00:00 GMT</pubDate>
-     </item>
-     <item>
-       <title><![CDATA[Noise drowns signal, people tune out]]></title>
-       <description><![CDATA[If the platform's filtering cannot surface scarce human signal effectively, noise drowns signal and people tune out. But when filtering works well, genuine personal content becomes disproportionately valuable.]]></description>
-       <link>https://felixkrusch.com/blog/noise-drowns-signal-people-tune-out</link>
-       <guid>https://felixkrusch.com/blog/noise-drowns-signal-people-tune-out</guid>
-       <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
-     </item>
-     <item>
-       <title><![CDATA[You don't need a CMS anymore]]></title>
-       <description><![CDATA[Not for blogs, not for small e-commerce, not for company sites. Security concerns, page builder drag, wasted time. Write in one language, polish automatically, translate . Serve clean and fast.]]></description>
-       <link>https://felixkrusch.com/blog/you-dont-need-a-cms-anymore</link>
-       <guid>https://felixkrusch.com/blog/you-dont-need-a-cms-anymore</guid>
-       <pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate>
-     </item>
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>
+<title>Felix Krusch - Insights</title><description>First-hand notes on design, development, and building things that work.</description><link>https://felixkrusch.com/insights/</link><atom:link href="https://felixkrusch.com/rss.xml" rel="self" type="application/rss+xml"/><language>en-ca</language>
+<item><title>How Long Does It Take to Get a Website Designed?</title><description>About ten working days if the assets are ready. Longer if they aren&apos;t. Agencies quote weeks because of handoffs, not because the work is harder.</description><link>https://felixkrusch.com/how-long-does-it-take-to-get-a-website-designed/</link><guid isPermaLink="false">https://felixkrusch.com/blog/how-long-does-it-take-to-get-a-website-designed</guid><pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate></item>
+<item><title>What Questions Should You Ask Before Hiring a Web Designer?</title><description>28 essential questions to ask before hiring a web designer. Protect yourself from project disasters, scope creep, and bad platform choices. From someone who&apos;s seen it all.</description><link>https://felixkrusch.com/questions-to-ask-before-hiring-a-web-designer/</link><guid isPermaLink="false">https://felixkrusch.com/blog/questions-to-ask-before-hiring-a-web-designer</guid><pubDate>Wed, 29 Apr 2026 12:00:00 GMT</pubDate></item>
+<item><title>How Much Does It Cost to Hire a Web Designer?</title><description>Honest breakdown of web design costs: from 500 EUR offshore freelancers to 25000 EUR agencies. My pricing as a specialist freelancer, what you get, and why the market works this way.</description><link>https://felixkrusch.com/how-much-does-it-cost-to-hire-a-web-designer/</link><guid isPermaLink="false">https://felixkrusch.com/blog/how-much-does-it-cost-to-hire-a-web-designer</guid><pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate></item>
+<item><title>Should I Hire a Web Designer or Use a DIY Website Builder?</title><description>DIY website builders look cheap, until you count the real cost in time, lost leads and brand damage. Honest comparison from a web designer with 28 years of experience and 300+ projects.</description><link>https://felixkrusch.com/hire-web-designer-or-diy-website-builder/</link><guid isPermaLink="false">https://felixkrusch.com/blog/hire-web-designer-or-diy-website-builder</guid><pubDate>Wed, 22 Apr 2026 12:00:00 GMT</pubDate></item>
+<item><title>Agility and Pivots</title><description>I never planned to specialize. I just got really good at one thing because that was how I lived. Over time it became my sharp spike.</description><link>https://felixkrusch.com/agility-and-pivots/</link><guid isPermaLink="false">https://felixkrusch.com/blog/agility-and-pivots</guid><pubDate>Mon, 06 Apr 2026 12:00:00 GMT</pubDate></item>
+<item><title>Agents Are the New CMS</title><description>2026: Your website shouldn&apos;t fight you every time you want to update it. AI agents sitting between you and the site so you never have to touch the backend again.</description><link>https://felixkrusch.com/agents-are-the-new-cms/</link><guid isPermaLink="false">https://felixkrusch.com/blog/agents-are-the-new-cms</guid><pubDate>Sat, 07 Mar 2026 12:00:00 GMT</pubDate></item>
+<item><title>WordPress FSE diminishing returns</title><description>WordPress FSE is a lesson in diminishing returns. The complexity-to-flexibility ratio doesn&apos;t make sense when modern stacks just work.</description><link>https://felixkrusch.com/wordpress-fse-diminishing-returns/</link><guid isPermaLink="false">https://felixkrusch.com/blog/wordpress-fse-diminishing-returns</guid><pubDate>Sat, 28 Feb 2026 12:00:00 GMT</pubDate></item>
+<item><title>Why 85% of Cleaning Companies &amp; Janitor Websites Scare Off Customers in 2026</title><description>The hard truth: Slow loading times, unclear prices, missing forms, fake images, no reviews, mobile issues. A simple one-pager fixes 80% and brings more inquiries. No agency needed.</description><link>https://felixkrusch.com/why-85-percent-of-cleaning-companies-and-janitor-websites-scare-off-customers-in-2026/</link><guid isPermaLink="false">https://felixkrusch.com/blog/why-85-percent-of-cleaning-companies-and-janitor-websites-scare-off-customers-in-2026</guid><pubDate>Fri, 20 Feb 2026 12:00:00 GMT</pubDate></item>
+<item><title>Freelancers Obliterate Agencies for SMEs in 2026 - Wake Up</title><description>Small/midsize businesses are getting robbed by agencies charging 3-4x more for the same work. Freelancers deliver 90-110% quality for 30-60% of the price with faster delivery.</description><link>https://felixkrusch.com/freelancers-obliterate-agencies-for-smes-in-2026-wake-up/</link><guid isPermaLink="false">https://felixkrusch.com/blog/freelancers-obliterate-agencies-for-smes-in-2026-wake-up</guid><pubDate>Wed, 18 Feb 2026 12:00:00 GMT</pubDate></item>
+<item><title>Noise drowns signal, people tune out</title><description>If the platform&apos;s filtering cannot surface scarce human signal effectively, noise drowns signal and people tune out. But when filtering works well, genuine personal content becomes disproportionately valuable.</description><link>https://felixkrusch.com/noise-drowns-signal-people-tune-out/</link><guid isPermaLink="false">https://felixkrusch.com/blog/noise-drowns-signal-people-tune-out</guid><pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate></item>
+<item><title>You don&apos;t need a CMS anymore</title><description>Not for blogs, not for small e-commerce, not for company sites. Security concerns, page builder drag, wasted time. Write in one language, polish automatically, translate . Serve clean and fast.</description><link>https://felixkrusch.com/you-dont-need-a-cms-anymore/</link><guid isPermaLink="false">https://felixkrusch.com/blog/you-dont-need-a-cms-anymore</guid><pubDate>Mon, 16 Feb 2026 12:00:00 GMT</pubDate></item>
+</channel></rss>
