@@ -10,7 +10,6 @@
 - [Websites](https://felixkrusch.com/webdesign/) — Modern Performance Website offer
 - [Solutions](https://felixkrusch.com/solutions/) — Custom applications & software
 - [Insights](https://felixkrusch.com/insights/) — Articles on design, development, business
-- [Refer & Earn](https://felixkrusch.com/refer-and-earn/) — Client referral program
 - [Legal notice](https://felixkrusch.com/impressum/) — Legal notice (EN)
 - [Privacy policy](https://felixkrusch.com/privacy-policy/) — Privacy policy (EN)
 
@@ -22,7 +21,6 @@
 - [German Websites](https://felixkrusch.com/de/webdesign/)
 - [German Solutions](https://felixkrusch.com/de/applications/)
 - [German Insights](https://felixkrusch.com/de/einblicke/)
-- [German Refer & Earn](https://felixkrusch.com/de/empfehlen/)
 - [German Impressum](https://felixkrusch.com/de/impressum/)
 - [German Privacy policy](https://felixkrusch.com/de/privacy-policy/)
 

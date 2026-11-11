@@ -1,1 +1,0 @@
-var e={CAD:4e3,USD:3e3,EUR:2500},t={CAD:1500,USD:1200,EUR:1e3},n=.2;function r(e,t,n){return new Intl.NumberFormat(n??(t===`EUR`?`en-IE`:`en-CA`),{style:`currency`,currency:t,currencyDisplay:`narrowSymbol`,maximumFractionDigits:0}).format(e)}export{e as i,t as n,n as r,r as t};
